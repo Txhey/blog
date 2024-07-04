@@ -1,0 +1,315 @@
+{
+    "fileList": {
+        "3D打印笔记": {
+            "relative_path": "3D打印",
+            "file_name": "3D打印笔记.md",
+            "creation_time": "Thu Jul  4 16:26:33 2024",
+            "modification_time": "Thu Jul  4 16:27:05 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "excel": {
+            "relative_path": "excel",
+            "file_name": "excel.md",
+            "creation_time": "Thu Jul  4 16:27:11 2024",
+            "modification_time": "Thu Jun  6 16:38:18 2024",
+            "taglist": [
+                "excel",
+                "办公"
+            ],
+            "grouplist": [
+                "工具"
+            ],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/excel/img/cover-excel.png"
+        },
+        "git": {
+            "relative_path": "git",
+            "file_name": "git.md",
+            "creation_time": "Thu Jul  4 16:33:00 2024",
+            "modification_time": "Tue Jun  4 13:43:34 2024",
+            "taglist": [
+                "git"
+            ],
+            "grouplist": [
+                "tool"
+            ],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/git/img/cover-git.png"
+        },
+        "test": {
+            "relative_path": "test",
+            "file_name": "test.md",
+            "creation_time": "Thu Jul  4 16:35:37 2024",
+            "modification_time": "Fri Jun 14 19:49:39 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/test/img/cover-test.png"
+        },
+        "idea-AI机械臂": {
+            "relative_path": "idea_box",
+            "file_name": "idea-AI机械臂.md",
+            "creation_time": "Thu Jul  4 16:29:19 2024",
+            "modification_time": "Thu Jul  4 16:30:09 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/idea_box/img/cover-idea-AI机械臂.jpg"
+        },
+        "js": {
+            "relative_path": "js",
+            "file_name": "js.md",
+            "creation_time": "Thu Jul  4 16:33:44 2024",
+            "modification_time": "Wed Jun 12 22:08:43 2024",
+            "taglist": [
+                "js",
+                "web",
+                "前端"
+            ],
+            "grouplist": [
+                "前端"
+            ],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/js/img/cover-js.png"
+        },
+        "kaggle": {
+            "relative_path": "kaggle",
+            "file_name": "kaggle.md",
+            "creation_time": "Thu Jul  4 16:33:55 2024",
+            "modification_time": "Sat Jun  8 13:13:16 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/kaggle/img/cover-kaggle.png"
+        },
+        "markdown": {
+            "relative_path": "markdown",
+            "file_name": "markdown.md",
+            "creation_time": "Thu Jul  4 16:34:30 2024",
+            "modification_time": "Sun Jun 23 19:39:25 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "numpy": {
+            "relative_path": "python\\numpy",
+            "file_name": "numpy.md",
+            "creation_time": "Thu Jul  4 16:34:48 2024",
+            "modification_time": "Wed Jun  5 14:59:12 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/python\\numpy/img/cover-numpy.png"
+        },
+        "plt": {
+            "relative_path": "python\\plt",
+            "file_name": "plt.md",
+            "creation_time": "Thu Jul  4 16:35:21 2024",
+            "modification_time": "Fri Jun 21 22:03:35 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "pytorch": {
+            "relative_path": "python\\pytorch",
+            "file_name": "pytorch.md",
+            "creation_time": "Thu Jul  4 16:35:30 2024",
+            "modification_time": "Fri Jun  7 15:26:42 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "Stary": {
+            "relative_path": "Stary",
+            "file_name": "Stary.md",
+            "creation_time": "Thu Jul  4 16:15:56 2024",
+            "modification_time": "Sat Jun  8 21:22:13 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/Stary/img/cover-Stary.svg"
+        },
+        "Transformer": {
+            "relative_path": "Transformer",
+            "file_name": "Transformer.md",
+            "creation_time": "Thu Jul  4 16:14:55 2024",
+            "modification_time": "Fri Jun 21 15:01:30 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/Transformer/img/cover-Transformer.png"
+        },
+        "Transformer pytorch实现": {
+            "relative_path": "Transformer\\Transformer pytorch实现",
+            "file_name": "Transformer pytorch实现.md",
+            "creation_time": "Thu Jul  4 16:35:57 2024",
+            "modification_time": "Tue Jun  4 20:26:16 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "code": {
+            "relative_path": "Transformers",
+            "file_name": "code.md",
+            "creation_time": "Thu Jul  4 16:36:16 2024",
+            "modification_time": "Fri Jun 21 22:14:15 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "Transformers": {
+            "relative_path": "Transformers",
+            "file_name": "Transformers.md",
+            "creation_time": "Thu Jul  4 16:36:16 2024",
+            "modification_time": "Fri Jun 21 13:25:45 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "unity": {
+            "relative_path": "unity",
+            "file_name": "unity.md",
+            "creation_time": "Thu Jul  4 16:38:46 2024",
+            "modification_time": "Mon Jun 24 19:45:30 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "vue": {
+            "relative_path": "vue",
+            "file_name": "vue.md",
+            "creation_time": "Thu Jul  4 16:16:26 2024",
+            "modification_time": "Wed Jun 12 14:03:06 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "六级": {
+            "relative_path": "六级",
+            "file_name": "六级.md",
+            "creation_time": "Thu Jul  4 16:39:36 2024",
+            "modification_time": "Sun Jun 16 14:40:42 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "学习任务": {
+            "relative_path": "学习目标",
+            "file_name": "学习任务.md",
+            "creation_time": "Thu Jul  4 16:40:15 2024",
+            "modification_time": "Tue Jun 18 16:22:04 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/学习目标/img/cover-学习任务.jpg"
+        },
+        "学习目标": {
+            "relative_path": "学习目标",
+            "file_name": "学习目标.md",
+            "creation_time": "Thu Jul  4 16:40:15 2024",
+            "modification_time": "Tue Jun 18 13:31:27 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "”华为杯“数学建模": {
+            "relative_path": "数学建模",
+            "file_name": "”华为杯“数学建模.md",
+            "creation_time": "Mon Jun 17 21:40:15 2024",
+            "modification_time": "Tue Jun  4 17:01:59 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/数学建模/img/cover-”华为杯“数学建模.png"
+        },
+        "机械臂(小)助手": {
+            "relative_path": "机械臂(小)助手",
+            "file_name": "机械臂(小)助手.md",
+            "creation_time": "Thu Jul  4 16:39:00 2024",
+            "modification_time": "Fri Jun 28 15:31:06 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "驱动Emm_V5.0": {
+            "relative_path": "机械臂(小)助手",
+            "file_name": "驱动Emm_V5.0.md",
+            "creation_time": "Thu Jul  4 16:39:00 2024",
+            "modification_time": "Sun Jun 30 09:35:55 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "立创开发板·泰山派RK3566": {
+            "relative_path": "立创开发板·泰山派RK3566",
+            "file_name": "立创开发板·泰山派RK3566.md",
+            "creation_time": "Thu Jul  4 16:39:20 2024",
+            "modification_time": "Mon Jun 17 19:22:41 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "Attention is All You Need": {
+            "relative_path": "论文笔记\\Attention_is_All_You_Need",
+            "file_name": "Attention is All You Need.md",
+            "creation_time": "Thu Jul  4 16:12:42 2024",
+            "modification_time": "Thu Jun 13 21:30:38 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/论文笔记\\Attention_is_All_You_Need/img/cover-Attention is All You Need.jpg"
+        },
+        "论文：BERT": {
+            "relative_path": "论文笔记\\BERT",
+            "file_name": "论文：BERT.md",
+            "creation_time": "Thu Jul  4 16:12:42 2024",
+            "modification_time": "Tue Jun 18 13:23:01 2024",
+            "taglist": [
+                "论文笔记",
+                "BERT",
+                "Attention",
+                "Transformer"
+            ],
+            "grouplist": [
+                "论文笔记"
+            ],
+            "img": null
+        }
+    },
+    "tagSummary": {
+        "excel": [
+            "excel"
+        ],
+        "办公": [
+            "excel"
+        ],
+        "git": [
+            "git"
+        ],
+        "js": [
+            "js"
+        ],
+        "web": [
+            "js"
+        ],
+        "前端": [
+            "js"
+        ],
+        "论文笔记": [
+            "论文：BERT"
+        ],
+        "BERT": [
+            "论文：BERT"
+        ],
+        "Attention": [
+            "论文：BERT"
+        ],
+        "Transformer": [
+            "论文：BERT"
+        ]
+    },
+    "groupSummary": {
+        "工具": [
+            "excel"
+        ],
+        "tool": [
+            "git"
+        ],
+        "前端": [
+            "js"
+        ],
+        "论文笔记": [
+            "论文：BERT"
+        ]
+    }
+}
