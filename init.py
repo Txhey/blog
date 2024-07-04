@@ -108,6 +108,7 @@ def search_md_files(base_path):
 
         # 将文件信息添加到字典中
         file_info_dict[file_key] = {
+            "key": file_key,
             'relative_path': relative_path,
             'file_name': file_name,  # 包含.md后缀
             'title': title,

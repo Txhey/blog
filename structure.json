@@ -1,6 +1,7 @@
 {
     "fileList": {
         "3D打印笔记": {
+            "key": "3D打印笔记",
             "relative_path": "3D打印",
             "file_name": "3D打印笔记.md",
             "title": "3D打印笔记",
@@ -12,6 +13,7 @@
             "img": null
         },
         "excel": {
+            "key": "excel",
             "relative_path": "excel",
             "file_name": "excel.md",
             "title": "excel 教程及技巧",
@@ -28,6 +30,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/excel/img/cover-excel.png"
         },
         "git": {
+            "key": "git",
             "relative_path": "git",
             "file_name": "git.md",
             "title": "Git",
@@ -43,6 +46,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/git/img/cover-git.png"
         },
         "test": {
+            "key": "test",
             "relative_path": "test",
             "file_name": "test.md",
             "title": "Computed and Watch",
@@ -54,6 +58,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/test/img/cover-test.png"
         },
         "idea-AI机械臂": {
+            "key": "idea-AI机械臂",
             "relative_path": "idea_box",
             "file_name": "idea-AI机械臂.md",
             "title": "idea： AI机械臂助手",
@@ -65,6 +70,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/idea_box/img/cover-idea-AI机械臂.jpg"
         },
         "js": {
+            "key": "js",
             "relative_path": "js",
             "file_name": "js.md",
             "title": "title not found",
@@ -82,6 +88,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/js/img/cover-js.png"
         },
         "kaggle": {
+            "key": "kaggle",
             "relative_path": "kaggle",
             "file_name": "kaggle.md",
             "title": "kaggle 教程",
@@ -93,6 +100,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/kaggle/img/cover-kaggle.png"
         },
         "markdown": {
+            "key": "markdown",
             "relative_path": "markdown",
             "file_name": "markdown.md",
             "title": "markdown 笔记",
@@ -104,6 +112,7 @@
             "img": null
         },
         "numpy": {
+            "key": "numpy",
             "relative_path": "python\\numpy",
             "file_name": "numpy.md",
             "title": "numpy教程",
@@ -115,6 +124,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/python\\numpy/img/cover-numpy.png"
         },
         "plt": {
+            "key": "plt",
             "relative_path": "python\\plt",
             "file_name": "plt.md",
             "title": "创建一个4行1列个子图的图表",
@@ -126,6 +136,7 @@
             "img": null
         },
         "pytorch": {
+            "key": "pytorch",
             "relative_path": "python\\pytorch",
             "file_name": "pytorch.md",
             "title": "pytorch教程",
@@ -137,6 +148,7 @@
             "img": null
         },
         "Stary": {
+            "key": "Stary",
             "relative_path": "Stary",
             "file_name": "Stary.md",
             "title": "Stary (v3.1.1)：个人网站项目",
@@ -148,6 +160,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Stary/img/cover-Stary.svg"
         },
         "Transformer": {
+            "key": "Transformer",
             "relative_path": "Transformer",
             "file_name": "Transformer.md",
             "title": "Transformer 模型分析",
@@ -159,6 +172,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformer/img/cover-Transformer.png"
         },
         "Transformer pytorch实现": {
+            "key": "Transformer pytorch实现",
             "relative_path": "Transformer\\Transformer pytorch实现",
             "file_name": "Transformer pytorch实现.md",
             "title": "Transformer pytorch实现",
@@ -170,6 +184,7 @@
             "img": null
         },
         "code": {
+            "key": "code",
             "relative_path": "Transformers",
             "file_name": "code.md",
             "title": "Transformers代码解析",
@@ -181,6 +196,7 @@
             "img": null
         },
         "Transformers": {
+            "key": "Transformers",
             "relative_path": "Transformers",
             "file_name": "Transformers.md",
             "title": "抱抱 Transformers",
@@ -192,6 +208,7 @@
             "img": null
         },
         "unity": {
+            "key": "unity",
             "relative_path": "unity",
             "file_name": "unity.md",
             "title": "Unity 教程",
@@ -203,6 +220,7 @@
             "img": null
         },
         "vue": {
+            "key": "vue",
             "relative_path": "vue",
             "file_name": "vue.md",
             "title": "## 问题总结",
@@ -214,6 +232,7 @@
             "img": null
         },
         "六级": {
+            "key": "六级",
             "relative_path": "六级",
             "file_name": "六级.md",
             "title": "六级笔记总结",
@@ -225,6 +244,7 @@
             "img": null
         },
         "学习任务": {
+            "key": "学习任务",
             "relative_path": "学习目标",
             "file_name": "学习任务.md",
             "title": "学习任务",
@@ -236,6 +256,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/学习目标/img/cover-学习任务.jpg"
         },
         "学习目标": {
+            "key": "学习目标",
             "relative_path": "学习目标",
             "file_name": "学习目标.md",
             "title": "学习内容和目标总结",
@@ -247,6 +268,7 @@
             "img": null
         },
         "”华为杯“数学建模": {
+            "key": "”华为杯“数学建模",
             "relative_path": "数学建模",
             "file_name": "”华为杯“数学建模.md",
             "title": "“华为杯”研究生数学建模竞赛",
@@ -258,6 +280,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/数学建模/img/cover-”华为杯“数学建模.png"
         },
         "机械臂(小)助手": {
+            "key": "机械臂(小)助手",
             "relative_path": "机械臂(小)助手",
             "file_name": "机械臂(小)助手.md",
             "title": "机械臂助手笔记",
@@ -269,6 +292,7 @@
             "img": null
         },
         "驱动Emm_V5.0": {
+            "key": "驱动Emm_V5.0",
             "relative_path": "机械臂(小)助手",
             "file_name": "驱动Emm_V5.0.md",
             "title": "Emm_V5.0闭环步进电机驱动",
@@ -280,6 +304,7 @@
             "img": null
         },
         "立创开发板·泰山派RK3566": {
+            "key": "立创开发板·泰山派RK3566",
             "relative_path": "立创开发板·泰山派RK3566",
             "file_name": "立创开发板·泰山派RK3566.md",
             "title": "立创开发板·泰山派RK3566 教程",
@@ -291,6 +316,7 @@
             "img": null
         },
         "Attention is All You Need": {
+            "key": "Attention is All You Need",
             "relative_path": "论文笔记\\Attention_is_All_You_Need",
             "file_name": "Attention is All You Need.md",
             "title": "Attention is All You Need",
@@ -302,6 +328,7 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\Attention_is_All_You_Need/img/cover-Attention is All You Need.jpg"
         },
         "论文：BERT": {
+            "key": "论文：BERT",
             "relative_path": "论文笔记\\BERT",
             "file_name": "论文：BERT.md",
             "title": "论文： BERT： Pre-training of Deep Bidirectional Transformers for Language Understanding",
