@@ -51,8 +51,8 @@
             "file_name": "test.md",
             "title": "Computed and Watch",
             "abstract": ">This section uses single-file component syntax for code examples Computed values [json](./info.json) [../folderName/subFolder/subFolder2/file.md](../folderName/subFolder/subFolder2/file.md) [../folde",
-            "creation_time": "Thu Jul  4 16:35:37 2024",
-            "modification_time": "Fri Jun 14 19:49:39 2024",
+            "creation_time": "Thu Jul  4 21:19:55 2024",
+            "modification_time": "Thu Jul  4 21:19:55 2024",
             "taglist": [],
             "grouplist": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/test/img/cover-test.png"
@@ -410,7 +410,6 @@
         "numpy",
         "plt",
         "pytorch",
-        "test",
         "Transformer pytorch实现",
         "code",
         "Transformers",
@@ -420,6 +419,7 @@
         "立创开发板·泰山派RK3566",
         "六级",
         "学习任务",
-        "学习目标"
+        "学习目标",
+        "test"
     ]
 }
