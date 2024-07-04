@@ -2,7 +2,36 @@ import os
 import glob
 import json
 import time
+import re
 
+
+# 获取文件摘要（去除标题符号、代码块、表格、空白符）
+def get_title_and_extract_from_md(file_path):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        # 获取title
+        title = "title not found"
+        for line in f:
+            # 使用正则表达式匹配以#开头的行，并捕获标题内容
+            match = re.match(r'^\s*#\s*(.+)', line)
+            if match:
+                title = match.group(1)
+                break
+        # print(title)
+        # 读取 Markdown 文件内容
+        html = f.read()
+        # 去掉列表
+        html = re.sub(r'\* (.*?)[\r\n]', r' \1 ', html)
+        # 标题去除#
+        html = re.sub(r'#* (.*?)[\r\n]', r"\1", html)
+        # 去除表格
+        html = re.sub(r'\|.*?\|.*?\n', "", html)
+        # 去除代码块
+        html = re.sub(r'```.*?```|~~~.*?~~~', "", html, flags=re.DOTALL)
+        # 去掉图片
+        html = re.sub(r'!\[.*?\]\(.*?\)', " ", html, flags=re.DOTALL)
+        # 去除换行、空行、制表符
+        html = re.sub(r'\s+', " ", html)
+        return title, html.strip()[:200]
 
 def find_cover_image(img_folder, file_name):
     # 构建cover图片文件名
@@ -37,6 +66,8 @@ def search_md_files(base_path):
         # 获取文件创建时间和最后修改时间
         creation_time = os.path.getctime(md_file)
         modification_time = os.path.getmtime(md_file)
+        # 获取文件的摘要
+        title, abstract = get_title_and_extract_from_md(os.path.join(base_path,md_file))
 
         # 假设存在同名的.tconf文件
         tconf_file = md_file.replace('.md', '.tconf')
@@ -79,6 +110,8 @@ def search_md_files(base_path):
         file_info_dict[file_key] = {
             'relative_path': relative_path,
             'file_name': file_name,  # 包含.md后缀
+            'title': title,
+            'abstract': abstract,
             'creation_time': creation_time,
             'modification_time': modification_time,
             'taglist': taglist,
