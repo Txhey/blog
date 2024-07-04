@@ -17,8 +17,11 @@ def find_cover_image(img_folder, file_name):
 
 
 def search_md_files(base_path):
-    # 搜索main目录及其子目录下的.md文件
-    md_files = glob.glob(os.path.join(base_path, '**/*.md'), recursive=True)
+    # 搜索main目录及其子目录下的.md文件，忽略以~开头的文件夹
+    md_files = []
+    for root, dirs, files in os.walk(base_path):
+        dirs[:] = [d for d in dirs if not d.startswith('~') and not d.startswith('.')]
+        md_files.extend(glob.glob(os.path.join(root, '*.md')))
 
     file_info_dict = {}
     tag_summary = {}
@@ -32,8 +35,8 @@ def search_md_files(base_path):
         # 获取文件名（不包含后缀）
         file_key = os.path.splitext(file_name)[0]
         # 获取文件创建时间和最后修改时间
-        creation_time = time.ctime(os.path.getctime(md_file))
-        modification_time = time.ctime(os.path.getmtime(md_file))
+        creation_time = os.path.getctime(md_file)
+        modification_time = os.path.getmtime(md_file)
 
         # 假设存在同名的.tconf文件
         tconf_file = md_file.replace('.md', '.tconf')
@@ -83,11 +86,18 @@ def search_md_files(base_path):
             'img': img_url
         }
 
+    # 根据创建时间对file_info_dict的key进行排序
+    sorted_keys = sorted(file_info_dict.keys(), key=lambda k: file_info_dict[k]['creation_time'])
+
+    # 创建排序后的列表，用于sortByCreateTime字段
+    sortByCreateTime = [file_key for file_key in sorted_keys]
+
     # 创建总的结构
     structure = {
         "fileList": file_info_dict,
         "tagSummary": tag_summary,
-        "groupSummary": group_summary
+        "groupSummary": group_summary,
+        "sortByCreateTime": sortByCreateTime
     }
 
     # 将结构保存到structure.json文件中
