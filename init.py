@@ -33,23 +33,25 @@ def get_title_and_extract_from_md(file_path):
         html = re.sub(r'\s+', " ", html)
         return title, html.strip()[:200]
 
-def find_cover_image(img_folder, file_name):
-    # 构建cover图片文件名
-    cover_image_name = f"cover-{file_name}"
-    # 搜索img文件夹中名为cover-{file_name}的图片文件
+
+def find_cover_image(img_folder, file_key):
+    # 尝试找cover-{file_key}命名的图片
+    cover_image_name = f"cover-{file_key}"
     img_files = glob.glob(os.path.join(img_folder, f'{cover_image_name}.*'))
     if img_files:
-        # 返回第一个找到的cover图片文件的文件名（包括后缀）
         return os.path.basename(img_files[0])
-    else:
-        # 如果没有找到以cover-{file_key}命名的图片，返回img文件夹中的第一张图片
-        img_files = glob.glob(os.path.join(img_folder, 'cover.*'))
-        if img_files:
-            return os.path.basename(img_files[0])
-        else:
-            img_files = glob.glob(os.path.join(img_folder, '*'))
-            if(img_files):
-                return None
+
+    # 找不到cover-{file_key}命名的图片时，尝试找img文件夹中以cover开头的任意图片
+    img_files = glob.glob(os.path.join(img_folder, 'cover*'))
+    if img_files:
+        return os.path.basename(img_files[0])
+
+    # 找不到cover-{file_key}命名的图片时，尝试找img文件夹中以cover开头的任意图片
+    img_files = glob.glob(os.path.join(img_folder, '*'))
+    if img_files:
+        return os.path.basename(img_files[0])
+
+    return None
 
 
 def search_md_files(base_path):

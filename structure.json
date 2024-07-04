@@ -10,7 +10,7 @@
             "modification_time": "Thu Jul  4 16:27:05 2024",
             "taglist": [],
             "grouplist": [],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/3D打印/img/cover-3D打印机笔记.jpg"
         },
         "excel": {
             "key": "excel",
@@ -109,7 +109,7 @@
             "modification_time": "Sun Jun 23 19:39:25 2024",
             "taglist": [],
             "grouplist": [],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/markdown/img/v2-10dbe4c6af3a91973504203832d8e5f2_720w.webp"
         },
         "numpy": {
             "key": "numpy",
@@ -193,7 +193,7 @@
             "modification_time": "Fri Jun 21 22:14:15 2024",
             "taglist": [],
             "grouplist": [],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformers/img/image-20240618190112110.png"
         },
         "Transformers": {
             "key": "Transformers",
@@ -205,7 +205,7 @@
             "modification_time": "Fri Jun 21 13:25:45 2024",
             "taglist": [],
             "grouplist": [],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformers/img/image-20240618190112110.png"
         },
         "unity": {
             "key": "unity",
@@ -265,7 +265,7 @@
             "modification_time": "Tue Jun 18 13:31:27 2024",
             "taglist": [],
             "grouplist": [],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/学习目标/img/cover-学习任务.jpg"
         },
         "”华为杯“数学建模": {
             "key": "”华为杯“数学建模",
@@ -289,7 +289,7 @@
             "modification_time": "Fri Jun 28 15:31:06 2024",
             "taglist": [],
             "grouplist": [],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/机械臂(小)助手/img/1719030750627.jpg"
         },
         "驱动Emm_V5.0": {
             "key": "驱动Emm_V5.0",
@@ -301,7 +301,7 @@
             "modification_time": "Sun Jun 30 09:35:55 2024",
             "taglist": [],
             "grouplist": [],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/机械臂(小)助手/img/1719030750627.jpg"
         },
         "立创开发板·泰山派RK3566": {
             "key": "立创开发板·泰山派RK3566",
@@ -313,7 +313,7 @@
             "modification_time": "Mon Jun 17 19:22:41 2024",
             "taglist": [],
             "grouplist": [],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/立创开发板·泰山派RK3566/img/image-20240617140042321.png"
         },
         "Attention is All You Need": {
             "key": "Attention is All You Need",
@@ -344,7 +344,7 @@
             "grouplist": [
                 "论文笔记"
             ],
-            "img": null
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\BERT/img/pre-training_fine-tuning.png"
         }
     },
     "tagSummary": {
