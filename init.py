@@ -71,7 +71,7 @@ def search_md_files(base_path):
 
         if cover_image:
             # 构建img字段的URL
-            img_url = f"https://raw.githubusercontent.com/Txhey/note/main/main/{relative_path}/img/{cover_image}"
+            img_url = f"https://raw.githubusercontent.com/Txhey/blog/main/main/{relative_path}/img/{cover_image}"
         else:
             img_url = None
 

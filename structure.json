@@ -21,7 +21,7 @@
             "grouplist": [
                 "工具"
             ],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/excel/img/cover-excel.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/excel/img/cover-excel.png"
         },
         "git": {
             "relative_path": "git",
@@ -34,7 +34,7 @@
             "grouplist": [
                 "tool"
             ],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/git/img/cover-git.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/git/img/cover-git.png"
         },
         "test": {
             "relative_path": "test",
@@ -43,7 +43,7 @@
             "modification_time": 1718365779.5365496,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/test/img/cover-test.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/test/img/cover-test.png"
         },
         "idea-AI机械臂": {
             "relative_path": "idea_box",
@@ -52,7 +52,7 @@
             "modification_time": 1720081809.6252124,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/idea_box/img/cover-idea-AI机械臂.jpg"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/idea_box/img/cover-idea-AI机械臂.jpg"
         },
         "js": {
             "relative_path": "js",
@@ -67,7 +67,7 @@
             "grouplist": [
                 "前端"
             ],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/js/img/cover-js.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/js/img/cover-js.png"
         },
         "kaggle": {
             "relative_path": "kaggle",
@@ -76,7 +76,7 @@
             "modification_time": 1717823596.8200667,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/kaggle/img/cover-kaggle.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/kaggle/img/cover-kaggle.png"
         },
         "markdown": {
             "relative_path": "markdown",
@@ -94,7 +94,7 @@
             "modification_time": 1717570752.5310209,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/python\\numpy/img/cover-numpy.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/python\\numpy/img/cover-numpy.png"
         },
         "plt": {
             "relative_path": "python\\plt",
@@ -121,7 +121,7 @@
             "modification_time": 1717852933.2571692,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/Stary/img/cover-Stary.svg"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Stary/img/cover-Stary.svg"
         },
         "Transformer": {
             "relative_path": "Transformer",
@@ -130,7 +130,7 @@
             "modification_time": 1718953290.145086,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/Transformer/img/cover-Transformer.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformer/img/cover-Transformer.png"
         },
         "Transformer pytorch实现": {
             "relative_path": "Transformer\\Transformer pytorch实现",
@@ -193,7 +193,7 @@
             "modification_time": 1718698924.1074142,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/学习目标/img/cover-学习任务.jpg"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/学习目标/img/cover-学习任务.jpg"
         },
         "学习目标": {
             "relative_path": "学习目标",
@@ -211,7 +211,7 @@
             "modification_time": 1717491719.4644866,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/数学建模/img/cover-”华为杯“数学建模.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/数学建模/img/cover-”华为杯“数学建模.png"
         },
         "机械臂(小)助手": {
             "relative_path": "机械臂(小)助手",
@@ -247,7 +247,7 @@
             "modification_time": 1718285438.1357286,
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/note/main/main/论文笔记\\Attention_is_All_You_Need/img/cover-Attention is All You Need.jpg"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\Attention_is_All_You_Need/img/cover-Attention is All You Need.jpg"
         },
         "论文：BERT": {
             "relative_path": "论文笔记\\BERT",
