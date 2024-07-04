@@ -42,7 +42,14 @@ def find_cover_image(img_folder, file_name):
         # 返回第一个找到的cover图片文件的文件名（包括后缀）
         return os.path.basename(img_files[0])
     else:
-        return None
+        # 如果没有找到以cover-{file_key}命名的图片，返回img文件夹中的第一张图片
+        img_files = glob.glob(os.path.join(img_folder, 'cover.*'))
+        if img_files:
+            return os.path.basename(img_files[0])
+        else:
+            img_files = glob.glob(os.path.join(img_folder, '*'))
+            if(img_files):
+                return None
 
 
 def search_md_files(base_path):
