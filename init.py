@@ -64,8 +64,8 @@ def search_md_files(base_path):
         # 获取文件名（不包含后缀）
         file_key = os.path.splitext(file_name)[0]
         # 获取文件创建时间和最后修改时间
-        creation_time = os.path.getctime(md_file)
-        modification_time = os.path.getmtime(md_file)
+        creation_time = time.ctime(os.path.getctime(md_file))
+        modification_time = time.ctime(os.path.getmtime(md_file))
         # 获取文件的摘要
         title, abstract = get_title_and_extract_from_md(os.path.join(base_path,md_file))
 
