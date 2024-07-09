@@ -107,8 +107,14 @@
             "abstract": "**Author**: 谷歌出品 **Publication**: 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA. **Link**: https://arxiv.org/abs/1706.03762 **Last Modify**: `[v7]` Wed, 2 A",
             "creation_time": "Tue Jul  9 13:07:44 2024",
             "modification_time": "Tue Jul  9 19:16:08 2024",
-            "taglist": [],
-            "grouplist": [],
+            "taglist": [
+                "论文笔记",
+                "Transformer",
+                "Attention"
+            ],
+            "grouplist": [
+                "论文笔记"
+            ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\Attention_is_All_You_Need/img/cover.jpg"
         },
         "Transformer_Translation": {
@@ -119,8 +125,14 @@
             "abstract": "Author 几乎都是google公司的人 >作者名字后面的符号意义：> > `†`和`‡`: 这两位不是google的，是在google实习期间完成的工作 > `*`: 代表共同贡献 第一页末尾描述了对于该论文的贡献有介绍：（每个作者做了什么内容） Abstract **原文** Thedominant sequence transduction models are based on comp",
             "creation_time": "Thu Jul  4 16:12:42 2024",
             "modification_time": "Tue Jul  9 20:06:25 2024",
-            "taglist": [],
-            "grouplist": [],
+            "taglist": [
+                "论文笔记",
+                "Transformer",
+                "Attention"
+            ],
+            "grouplist": [
+                "论文翻译"
+            ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\Attention_is_All_You_Need/img/cover.jpg"
         },
         "论文：BERT": {
@@ -150,8 +162,13 @@
             "abstract": "通过排序检索技术扩展K-Means算法 **author**: Andrei Broder, Lluis Garcia-Pueyo, Vanja Josifovski, Sergei Vassilvitskii, Srihari Venkatesan **publication**: ACM SIGMOD 2022 （CFF A） **link**: https://dl.acm.org/doi/",
             "creation_time": "Sat Jul  6 17:19:58 2024",
             "modification_time": "Tue Jul  9 20:14:07 2024",
-            "taglist": [],
-            "grouplist": [],
+            "taglist": [
+                "论文笔记",
+                "K-mean"
+            ],
+            "grouplist": [
+                "论文笔记"
+            ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster/img/cover.png"
         },
         "Scalable_K-Means-translation": {
@@ -162,8 +179,13 @@
             "abstract": "Abstract Thek-means clustering algorithm has a long history and a proven practical performance, however it does not scale to clustering millions of data points into thousands of clusters in high dimen",
             "creation_time": "Sat Jul  6 17:30:52 2024",
             "modification_time": "Sat Jul  6 17:32:22 2024",
-            "taglist": [],
-            "grouplist": [],
+            "taglist": [
+                "论文笔记",
+                "K-mean"
+            ],
+            "grouplist": [
+                "论文翻译"
+            ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster/img/cover.png"
         },
         "Stereo": {
@@ -174,8 +196,14 @@
             "abstract": "通过训练卷积神经网络比较图像块进行立体匹配 **Authors**: Jure Žbontar, Yann LeCun **Publication**: Journal of Machine Learning Research (CCF A) **Submitted**: 20 Oct 2015 (`v1`) **Last revised**: 18 May 2016 (`v2`) **Link*",
             "creation_time": "Fri Jul  5 13:40:29 2024",
             "modification_time": "Tue Jul  9 19:59:14 2024",
-            "taglist": [],
-            "grouplist": [],
+            "taglist": [
+                "论文笔记",
+                "CV",
+                "stereo"
+            ],
+            "grouplist": [
+                "论文笔记"
+            ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\CV\\Stereo_Matching_by_Training_a_Convolutional_Neural_Network_to_Compare_Image_Patches/img/cover.png"
         },
         "Stereo_Matching_translation": {
@@ -186,8 +214,14 @@
             "abstract": "通过训练卷积神经网络比较图像块进行立体匹配 **作者**: Jure Žbontar, Yann LeCun **出版社**: Journal of Machine Learning Research (CCF A) **首次提交**: 2015年10月20日 **最近修改**: 2016年05月18日 **论文链接**: https://arxiv.org/abs/1510.05970 Abst",
             "creation_time": "Fri Jul  5 14:16:29 2024",
             "modification_time": "Sat Jul  6 20:35:42 2024",
-            "taglist": [],
-            "grouplist": [],
+            "taglist": [
+                "论文翻译",
+                "CV",
+                "stereo"
+            ],
+            "grouplist": [
+                "论文翻译"
+            ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\CV\\Stereo_Matching_by_Training_a_Convolutional_Neural_Network_to_Compare_Image_Patches/img/cover.png"
         },
         "Visial Transformer": {
@@ -427,16 +461,40 @@
             "js"
         ],
         "论文笔记": [
+            "Transformer",
+            "Transformer_Translation",
+            "论文：BERT",
+            "k-mean",
+            "Scalable_K-Means-translation",
+            "Stereo"
+        ],
+        "Transformer": [
+            "Transformer",
+            "Transformer_Translation",
+            "论文：BERT"
+        ],
+        "Attention": [
+            "Transformer",
+            "Transformer_Translation",
             "论文：BERT"
         ],
         "BERT": [
             "论文：BERT"
         ],
-        "Attention": [
-            "论文：BERT"
+        "K-mean": [
+            "k-mean",
+            "Scalable_K-Means-translation"
         ],
-        "Transformer": [
-            "论文：BERT"
+        "CV": [
+            "Stereo",
+            "Stereo_Matching_translation"
+        ],
+        "stereo": [
+            "Stereo",
+            "Stereo_Matching_translation"
+        ],
+        "论文翻译": [
+            "Stereo_Matching_translation"
         ]
     },
     "groupSummary": {
@@ -450,7 +508,15 @@
             "js"
         ],
         "论文笔记": [
-            "论文：BERT"
+            "Transformer",
+            "论文：BERT",
+            "k-mean",
+            "Stereo"
+        ],
+        "论文翻译": [
+            "Transformer_Translation",
+            "Scalable_K-Means-translation",
+            "Stereo_Matching_translation"
         ]
     },
     "sortByCreateTime": [
