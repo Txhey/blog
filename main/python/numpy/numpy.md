@@ -1,4 +1,4 @@
-# numpy教程
+# [python 教程] numpy
 
 
 

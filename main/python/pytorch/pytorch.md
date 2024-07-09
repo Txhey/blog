@@ -1,4 +1,4 @@
-# pytorch教程
+# [python教程] pytorch
 
 
 

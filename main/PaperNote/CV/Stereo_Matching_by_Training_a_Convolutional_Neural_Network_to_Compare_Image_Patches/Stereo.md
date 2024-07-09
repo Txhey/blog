@@ -1,4 +1,4 @@
-# [论文精读解析]： Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches
+# [论文精读]： Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches
 
 通过训练卷积神经网络比较图像块进行立体匹配
 

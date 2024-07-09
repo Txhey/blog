@@ -1,4 +1,4 @@
-# Computed and Watch
+# [test] Computed and Watch
 
 > This section uses single-file component syntax for code examples
 

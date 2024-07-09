@@ -1,4 +1,4 @@
-#  论文： BERT： Pre-training of Deep Bidirectional Transformers for Language Understanding
+#  [论文精读] BERT： Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 
 
