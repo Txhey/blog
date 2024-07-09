@@ -104,9 +104,9 @@
             "relative_path": "markdown",
             "file_name": "markdown.md",
             "title": "markdown 笔记",
-            "abstract": "https://www.cnblogs.com/beyondChan/p/11394854.html 公式 段前和断后使用 \\$\\$ 公式内容 \\$\\$ 矩阵写法 matrix pmatrix 圆括号矩阵 (parenthesis) bmatrix 方括号矩阵 (bracket) vmatrix 竖线矩阵 (vertical line) Vmatrix 双竖线矩阵 普通矩阵`matrix`$$ \\",
+            "abstract": "https://www.cnblogs.com/beyondChan/p/11394854.html 公式 段前和断后使用 \\$\\$ 公式内容 \\$\\$ 公式标记 $$ \\begin{align*} y= x \\tag{1} \\\\y= x^2 \\tag{2} \\\\\\end{align*} $$ `align`: 对齐公式 `\\tag`: 公式后面的标记 左对齐 $$ \\begin{align*} ",
             "creation_time": "Thu Jul  4 16:34:30 2024",
-            "modification_time": "Sun Jun 23 19:39:25 2024",
+            "modification_time": "Sun Jul  7 15:45:44 2024",
             "taglist": [],
             "grouplist": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/markdown/img/v2-10dbe4c6af3a91973504203832d8e5f2_720w.webp"
@@ -161,15 +161,15 @@
         },
         "Transformer": {
             "key": "Transformer",
-            "relative_path": "Transformer",
+            "relative_path": "论文笔记\\Attention_is_All_You_Need",
             "file_name": "Transformer.md",
-            "title": "Transformer 模型分析",
-            "abstract": "整体结构 Input 输入 Transformer模型的输入数据形状通常是三维张量 `batch_size`是批次大小，表示同时处理的样本数量。 `sequence_length`是序列长度，表示每个文本序列中词的数量或字符的数量。 `embedding_dim`是嵌入维度，表示词嵌入的维度或字符嵌入的维度。 Embedding 词嵌入层 将词用向量表示。 **代码** `vocab_size`:",
-            "creation_time": "Thu Jul  4 16:14:55 2024",
-            "modification_time": "Fri Jun 21 15:01:30 2024",
+            "title": "[论文精读] Attention Is All You Need",
+            "abstract": "**Author**: 谷歌出品 **Publication**: 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA. **Link**: https://arxiv.org/abs/1706.03762 **Last Modify**: `[v7]` Wed, 2 A",
+            "creation_time": "Tue Jul  9 13:07:44 2024",
+            "modification_time": "Tue Jul  9 19:16:08 2024",
             "taglist": [],
             "grouplist": [],
-            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformer/img/cover-Transformer.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\Attention_is_All_You_Need/img/cover-Attention is All You Need.jpg"
         },
         "Transformer pytorch实现": {
             "key": "Transformer pytorch实现",
@@ -303,6 +303,18 @@
             "grouplist": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/机械臂(小)助手/img/1719030750627.jpg"
         },
+        "论文相关基础知识扫盲": {
+            "key": "论文相关基础知识扫盲",
+            "relative_path": "研究生扫盲",
+            "file_name": "论文相关基础知识扫盲.md",
+            "title": "## 论文相关基础知识扫盲",
+            "abstract": "比如机构、期刊、专有名词等的介绍。 机构 **SCI* （Science Citation Index) ScienceCitation Index，科学引文索引 是一个索引库，收录了全球出版的数、理、化、农、林、医、生命科学等自然科学各学科核心期刊3700多种 分区分为了`JCR分区`和`中科院分区` JCR分区 划分了236个学科，根据当年的影响因子排名，每个学科平均分为了四个等级： Q1： ",
+            "creation_time": "Fri Jul  5 13:45:07 2024",
+            "modification_time": "Sun Jul  7 12:25:13 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
         "立创开发板·泰山派RK3566": {
             "key": "立创开发板·泰山派RK3566",
             "relative_path": "立创开发板·泰山派RK3566",
@@ -322,7 +334,7 @@
             "title": "Attention is All You Need",
             "abstract": "Author 几乎都是google公司的人 >作者名字后面的符号意义：> > `†`和`‡`: 这两位不是google的，是在google实习期间完成的工作 > `*`: 代表共同贡献 第一页末尾描述了对于该论文的贡献有介绍：（每个作者做了什么内容） Abstract **原文** Thedominant sequence transduction models are based on comp",
             "creation_time": "Thu Jul  4 16:12:42 2024",
-            "modification_time": "Thu Jun 13 21:30:38 2024",
+            "modification_time": "Tue Jul  9 13:13:38 2024",
             "taglist": [],
             "grouplist": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\Attention_is_All_You_Need/img/cover-Attention is All You Need.jpg"
@@ -345,6 +357,78 @@
                 "论文笔记"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\BERT/img/pre-training_fine-tuning.png"
+        },
+        "k-mean": {
+            "key": "k-mean",
+            "relative_path": "论文笔记\\cluster",
+            "file_name": "k-mean.md",
+            "title": "[论文精读] Scalable K-Means by Ranked Retrieval",
+            "abstract": "通过排序检索技术扩展K-Means算法 **author**: Andrei Broder, Lluis Garcia-Pueyo, Vanja Josifovski, Sergei Vassilvitskii, Srihari Venkatesan **publication**: ACM SIGMOD 2022 （CFF A） **link**: https://dl.acm.org/doi/",
+            "creation_time": "Sat Jul  6 17:19:58 2024",
+            "modification_time": "Sat Jul  6 17:30:49 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "Scalable_K-Means-translation": {
+            "key": "Scalable_K-Means-translation",
+            "relative_path": "论文笔记\\cluster",
+            "file_name": "Scalable_K-Means-translation.md",
+            "title": "[论文翻译] Scalable K-Means by Ranked Retrieval",
+            "abstract": "Abstract Thek-means clustering algorithm has a long history and a proven practical performance, however it does not scale to clustering millions of data points into thousands of clusters in high dimen",
+            "creation_time": "Sat Jul  6 17:30:52 2024",
+            "modification_time": "Sat Jul  6 17:32:22 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": null
+        },
+        "Stereo": {
+            "key": "Stereo",
+            "relative_path": "论文笔记\\CV\\Stereo_Matching_by_Training_a_Convolutional_Neural_Network_to_Compare_Image_Patches",
+            "file_name": "Stereo.md",
+            "title": "[论文精读解析]： Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches",
+            "abstract": "通过训练卷积神经网络比较图像块进行立体匹配 **Authors**: Jure Žbontar, Yann LeCun **Publication**: Journal of Machine Learning Research (CCF A) **Submitted**: 20 Oct 2015 (`v1`) **Last revised**: 18 May 2016 (`v2`) **Link*",
+            "creation_time": "Fri Jul  5 13:40:29 2024",
+            "modification_time": "Fri Jul  5 14:30:32 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\CV\\Stereo_Matching_by_Training_a_Convolutional_Neural_Network_to_Compare_Image_Patches/img/image-20240705134219721.png"
+        },
+        "Stereo_Matching_translation": {
+            "key": "Stereo_Matching_translation",
+            "relative_path": "论文笔记\\CV\\Stereo_Matching_by_Training_a_Convolutional_Neural_Network_to_Compare_Image_Patches",
+            "file_name": "Stereo_Matching_translation.md",
+            "title": "[论文翻译]： Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches",
+            "abstract": "通过训练卷积神经网络比较图像块进行立体匹配 **作者**: Jure Žbontar, Yann LeCun **出版社**: Journal of Machine Learning Research (CCF A) **首次提交**: 2015年10月20日 **最近修改**: 2016年05月18日 **论文链接**: https://arxiv.org/abs/1510.05970 Abst",
+            "creation_time": "Fri Jul  5 14:16:29 2024",
+            "modification_time": "Sat Jul  6 20:35:42 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\CV\\Stereo_Matching_by_Training_a_Convolutional_Neural_Network_to_Compare_Image_Patches/img/image-20240705134219721.png"
+        },
+        "Visial Transformer": {
+            "key": "Visial Transformer",
+            "relative_path": "论文笔记\\CV\\Visial Transformer",
+            "file_name": "Visial Transformer.md",
+            "title": "[论文精读] An Image Is Worth 16×16 Words: Transformers for Image Recognition at Scale",
+            "abstract": "一幅图像价值相当于16x16个单词：规模化的图像识别中的Transformer模型 **Author**: Alexey Dosovitskiy等 **Publish**: pubished as a conference paper at ICLR 2021 **First Submission**: Thu, 22 Oct 2020 **Last Modify**: Thu, 3 Jun 20",
+            "creation_time": "Sat Jul  6 21:03:35 2024",
+            "modification_time": "Sun Jul  7 19:40:26 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\CV\\Visial Transformer/img/image-20240707144811763.png"
+        },
+        "VIT_T": {
+            "key": "VIT_T",
+            "relative_path": "论文笔记\\CV\\Visial Transformer",
+            "file_name": "VIT_T.md",
+            "title": "[论文翻译] An Image Is Worth 16×16 Words: Transformers for Image Recognition at Scale",
+            "abstract": "",
+            "creation_time": "Sat Jul  6 21:50:28 2024",
+            "modification_time": "Sat Jul  6 21:50:57 2024",
+            "taglist": [],
+            "grouplist": [],
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/论文笔记\\CV\\Visial Transformer/img/image-20240707144811763.png"
         }
     },
     "tagSummary": {
@@ -394,10 +478,16 @@
         ]
     },
     "sortByCreateTime": [
+        "Stereo",
+        "论文相关基础知识扫盲",
+        "Stereo_Matching_translation",
         "”华为杯“数学建模",
+        "k-mean",
+        "Scalable_K-Means-translation",
+        "Visial Transformer",
+        "VIT_T",
         "Attention is All You Need",
         "论文：BERT",
-        "Transformer",
         "Stary",
         "vue",
         "3D打印笔记",
@@ -420,6 +510,7 @@
         "六级",
         "学习任务",
         "学习目标",
-        "test"
+        "test",
+        "Transformer"
     ]
 }

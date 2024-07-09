@@ -16,7 +16,36 @@ https://www.cnblogs.com/beyondChan/p/11394854.html
 
 
 
+##### 公式标记
 
+```latex
+\begin{align*}
+y = x \tag{1} \\
+y = x^2 \tag{2} \\
+\end{align*}
+```
+
+
+$$
+\begin{align*}
+y = x \tag{1} \\
+y = x^2 \tag{2} \\
+\end{align*}
+$$
+
+* `align`: 对齐公式
+
+* `\tag`: 公式后面的标记
+
+左对齐
+$$
+\begin{align*}
+& y = x \tag{1} \\
+& y = x^2 \tag{2} \\
+\end{align*}
+$$
+
+* &: 指示每行公式的起始位置
 
 
 
