@@ -1,6 +1,6 @@
 #  [论文精读] BERT： Pre-training of Deep Bidirectional Transformers for Language Understanding
 
-
+![image-20240709201252034](./img/cover-BERT.png)
 
 ## 参考
 

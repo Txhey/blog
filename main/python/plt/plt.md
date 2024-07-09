@@ -2,6 +2,8 @@
 
 # [python教程] PLT
 
+![Matplotlib - Practice, Exercise, and Solutions - GeeksforGeeks](./img/MatplotlibTutorial.png)
+
 ```py
 # 创建一个4行1列个子图的图表
 # 图标尺寸为18宽15高

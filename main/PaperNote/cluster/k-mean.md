@@ -1,5 +1,7 @@
 # [论文精读] Scalable K-Means by Ranked Retrieval
 
+![image-20240709201343086](./img/cover.png)
+
 通过排序检索技术扩展K-Means算法
 
 * **author**: Andrei Broder, Lluis Garcia-Pueyo, Vanja Josifovski, Sergei Vassilvitskii, Srihari Venkatesan

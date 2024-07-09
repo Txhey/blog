@@ -1,5 +1,7 @@
 # [论文精读] An Image Is Worth 16×16 Words: Transformers for Image Recognition at Scale
 
+![image-20240709201520760](./img/image-20240709201520760.png)
+
 一幅图像价值相当于16x16个单词：规模化的图像识别中的Transformer模型
 
 * **Author**: Alexey Dosovitskiy等

@@ -1,6 +1,6 @@
 # 抱抱 Transformers
 
-
+![Hugging Face full logo transparent PNG - StickPNG](./img/cover.png)
 
 ![image-20240618190112110](./img/image-20240618190112110.png)
 
