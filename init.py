@@ -124,8 +124,8 @@ def search_md_files(base_path):
             'abstract': abstract,
             'creation_time': creation_time,
             'modification_time': modification_time,
-            'taglist': taglist,
-            'grouplist': grouplist,
+            'tagList': taglist,
+            'groupList': grouplist,
             'img': img_url
         }
 

@@ -8,8 +8,8 @@
             "abstract": "loading…",
             "creation_time": "Thu Jul  4 16:26:33 2024",
             "modification_time": "Tue Jul  9 20:04:43 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/3D/img/cover-3D打印机笔记.jpg"
         },
         "excel": {
@@ -20,11 +20,11 @@
             "abstract": "插入正太分布的随机值 `mean`: 均值 * `standard_dav`: 方差",
             "creation_time": "Thu Jul  4 16:27:11 2024",
             "modification_time": "Thu Jun  6 16:38:18 2024",
-            "taglist": [
+            "tagList": [
                 "excel",
                 "办公"
             ],
-            "grouplist": [
+            "groupList": [
                 "工具"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/excel/img/cover-excel.png"
@@ -37,10 +37,10 @@
             "abstract": "查看git版本 文件状态 config 查看全局配置 修改用户名和密码 修改代理 创建仓库 初始化一个新的仓库 从远端服务器克隆一个过来 工作区域 工作区：working Directory 暂存区：Staging Area/Index 本地仓库： Local Repository 状态： Untrack 未跟踪：还没被git管理的文件 Unmodified 未修改 Modified 已修改 St",
             "creation_time": "Thu Jul  4 16:33:00 2024",
             "modification_time": "Tue Jun  4 13:43:34 2024",
-            "taglist": [
+            "tagList": [
                 "git"
             ],
-            "grouplist": [
+            "groupList": [
                 "tool"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/git/img/cover-git.png"
@@ -53,8 +53,8 @@
             "abstract": "AI自主学习的机械臂",
             "creation_time": "Thu Jul  4 16:29:19 2024",
             "modification_time": "Thu Jul  4 16:30:09 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/idea_box/img/cover-idea-AI机械臂.jpg"
         },
         "js": {
@@ -65,12 +65,12 @@
             "abstract": "js教程",
             "creation_time": "Thu Jul  4 16:33:44 2024",
             "modification_time": "Tue Jul  9 20:03:37 2024",
-            "taglist": [
+            "tagList": [
                 "js",
                 "web",
                 "前端"
             ],
-            "grouplist": [
+            "groupList": [
                 "前端"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/js/img/cover-js.png"
@@ -83,8 +83,8 @@
             "abstract": "kaggle教程",
             "creation_time": "Thu Jul  4 16:33:55 2024",
             "modification_time": "Tue Jul  9 20:03:50 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/kaggle/img/cover-kaggle.png"
         },
         "markdown": {
@@ -95,8 +95,8 @@
             "abstract": "https://www.cnblogs.com/beyondChan/p/11394854.html **四则运算** 1.加法运算，符号：`+`，如：x+y=z𝑥+𝑦=𝑧2.减法运算，符号：`-`，如：x−y=z𝑥−𝑦=𝑧3.加减运算，符号：`\\pm`，如：x±y=z𝑥±𝑦=𝑧4.减甲运算，符号：`\\mp`，如：x∓y=z𝑥∓𝑦=𝑧5.乘法运算，符号：`\\times`，如：x×y=z𝑥×𝑦=𝑧6",
             "creation_time": "Thu Jul  4 16:34:30 2024",
             "modification_time": "Tue Jul  9 20:04:48 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/markdown/img/cover-markdown.png"
         },
         "Transformer": {
@@ -107,12 +107,12 @@
             "abstract": "**Author**: 谷歌出品 **Publication**: 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA. **Link**: https://arxiv.org/abs/1706.03762 **Last Modify**: `[v7]` Wed, 2 A",
             "creation_time": "Tue Jul  9 13:07:44 2024",
             "modification_time": "Tue Jul  9 19:16:08 2024",
-            "taglist": [
+            "tagList": [
                 "论文笔记",
                 "Transformer",
                 "Attention"
             ],
-            "grouplist": [
+            "groupList": [
                 "论文笔记"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\Attention_is_All_You_Need/img/cover.jpg"
@@ -125,12 +125,12 @@
             "abstract": "Author 几乎都是google公司的人 >作者名字后面的符号意义：> > `†`和`‡`: 这两位不是google的，是在google实习期间完成的工作 > `*`: 代表共同贡献 第一页末尾描述了对于该论文的贡献有介绍：（每个作者做了什么内容） Abstract **原文** Thedominant sequence transduction models are based on comp",
             "creation_time": "Thu Jul  4 16:12:42 2024",
             "modification_time": "Tue Jul  9 20:06:25 2024",
-            "taglist": [
+            "tagList": [
                 "论文笔记",
                 "Transformer",
                 "Attention"
             ],
-            "grouplist": [
+            "groupList": [
                 "论文翻译"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\Attention_is_All_You_Need/img/cover.jpg"
@@ -143,13 +143,13 @@
             "abstract": "参考 [BERT论文逐段精读[论文精读]](https://www.bilibili.com/video/BV1PL411M7eQ/?spm_id_from=333.337.search-card.all.click&vd_source=550e50f36bb6f32ba43eb2af3f8307be) **BERT**:**B**idirectional **E**ncoder **R**epr",
             "creation_time": "Thu Jul  4 16:12:42 2024",
             "modification_time": "Tue Jul  9 20:14:17 2024",
-            "taglist": [
+            "tagList": [
                 "论文笔记",
                 "BERT",
                 "Attention",
                 "Transformer"
             ],
-            "grouplist": [
+            "groupList": [
                 "论文笔记"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\BERT/img/cover-BERT.png"
@@ -162,11 +162,11 @@
             "abstract": "通过排序检索技术扩展K-Means算法 **author**: Andrei Broder, Lluis Garcia-Pueyo, Vanja Josifovski, Sergei Vassilvitskii, Srihari Venkatesan **publication**: ACM SIGMOD 2022 （CFF A） **link**: https://dl.acm.org/doi/",
             "creation_time": "Sat Jul  6 17:19:58 2024",
             "modification_time": "Tue Jul  9 20:14:07 2024",
-            "taglist": [
+            "tagList": [
                 "论文笔记",
                 "K-mean"
             ],
-            "grouplist": [
+            "groupList": [
                 "论文笔记"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster/img/cover.png"
@@ -179,11 +179,11 @@
             "abstract": "Abstract Thek-means clustering algorithm has a long history and a proven practical performance, however it does not scale to clustering millions of data points into thousands of clusters in high dimen",
             "creation_time": "Sat Jul  6 17:30:52 2024",
             "modification_time": "Sat Jul  6 17:32:22 2024",
-            "taglist": [
+            "tagList": [
                 "论文笔记",
                 "K-mean"
             ],
-            "grouplist": [
+            "groupList": [
                 "论文翻译"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster/img/cover.png"
@@ -196,12 +196,12 @@
             "abstract": "通过训练卷积神经网络比较图像块进行立体匹配 **Authors**: Jure Žbontar, Yann LeCun **Publication**: Journal of Machine Learning Research (CCF A) **Submitted**: 20 Oct 2015 (`v1`) **Last revised**: 18 May 2016 (`v2`) **Link*",
             "creation_time": "Fri Jul  5 13:40:29 2024",
             "modification_time": "Tue Jul  9 19:59:14 2024",
-            "taglist": [
+            "tagList": [
                 "论文笔记",
                 "CV",
                 "stereo"
             ],
-            "grouplist": [
+            "groupList": [
                 "论文笔记"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\CV\\Stereo_Matching_by_Training_a_Convolutional_Neural_Network_to_Compare_Image_Patches/img/cover.png"
@@ -214,12 +214,12 @@
             "abstract": "通过训练卷积神经网络比较图像块进行立体匹配 **作者**: Jure Žbontar, Yann LeCun **出版社**: Journal of Machine Learning Research (CCF A) **首次提交**: 2015年10月20日 **最近修改**: 2016年05月18日 **论文链接**: https://arxiv.org/abs/1510.05970 Abst",
             "creation_time": "Fri Jul  5 14:16:29 2024",
             "modification_time": "Sat Jul  6 20:35:42 2024",
-            "taglist": [
+            "tagList": [
                 "论文翻译",
                 "CV",
                 "stereo"
             ],
-            "grouplist": [
+            "groupList": [
                 "论文翻译"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\CV\\Stereo_Matching_by_Training_a_Convolutional_Neural_Network_to_Compare_Image_Patches/img/cover.png"
@@ -232,8 +232,8 @@
             "abstract": "一幅图像价值相当于16x16个单词：规模化的图像识别中的Transformer模型 **Author**: Alexey Dosovitskiy等 **Publish**: pubished as a conference paper at ICLR 2021 **First Submission**: Thu, 22 Oct 2020 **Last Modify**: Thu, 3 Jun 20",
             "creation_time": "Sat Jul  6 21:03:35 2024",
             "modification_time": "Tue Jul  9 20:15:21 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\CV\\Visial Transformer/img/cover.png"
         },
         "VIT_T": {
@@ -244,8 +244,8 @@
             "abstract": "",
             "creation_time": "Sat Jul  6 21:50:28 2024",
             "modification_time": "Sat Jul  6 21:50:57 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\CV\\Visial Transformer/img/cover.png"
         },
         "numpy": {
@@ -256,8 +256,8 @@
             "abstract": "初始化",
             "creation_time": "Thu Jul  4 16:34:48 2024",
             "modification_time": "Tue Jul  9 20:01:03 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/python\\numpy/img/cover-numpy.png"
         },
         "plt": {
@@ -268,8 +268,8 @@
             "abstract": "",
             "creation_time": "Thu Jul  4 16:35:21 2024",
             "modification_time": "Tue Jul  9 20:16:56 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/python\\plt/img/MatplotlibTutorial.png"
         },
         "pytorch": {
@@ -280,8 +280,8 @@
             "abstract": "nn 数据结构 nn.Parameter 用于定义模型中需要学习的参数 为什么使用`nn.Parameter` -显式声明参数：通过 `nn.Parameter` 可以显式地声明模型的参数，这对于理解模型结构和调试非常有帮助。-自动优化：将张量包装为 `nn.Parameter` 后，优化器会自动识别这些参数并在训练过程中更新它们的值。 nn.ModuleList pytorch中的一个容器，类似",
             "creation_time": "Thu Jul  4 16:35:30 2024",
             "modification_time": "Tue Jul  9 20:01:21 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/python\\pytorch/img/cover.jpg"
         },
         "Stary": {
@@ -292,8 +292,8 @@
             "abstract": "`github.io版` 功能介绍 blog 笔记管理（存储、索引、查看） view 查看笔记 (还可查看该笔记的其他附件 pdf等) 左边是文件目录，中间主要查看的文件(markdown)内容，右上角悬浮菜单目录，右边是副浏览页，右上角可关闭。 点击左边的文件，比如pdf后，将会在右边展示以作参考。 点击md文件内容的其他笔记内容链接时，也将展示到右边。 实现：每次查看链接是否是note仓库的文",
             "creation_time": "Thu Jul  4 16:15:56 2024",
             "modification_time": "Tue Jul  9 20:17:39 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Stary/img/cover-Stary.svg"
         },
         "test": {
@@ -304,8 +304,8 @@
             "abstract": ">This section uses single-file component syntax for code examples Computed values [json](./info.json) [../folderName/subFolder/subFolder2/file.md](../folderName/subFolder/subFolder2/file.md) [../folde",
             "creation_time": "Thu Jul  4 21:19:55 2024",
             "modification_time": "Tue Jul  9 20:01:55 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/test/img/cover-test.png"
         },
         "Transformers": {
@@ -316,8 +316,8 @@
             "abstract": "Pipeline Tokenizer 处理batch Fast和 Slow Tokenizer Fast：基于Rust，更快，还会生成些其他数据 Slow：基于python，更慢 offset_mapping：每个词的开始index和末尾index Model",
             "creation_time": "Thu Jul  4 16:36:16 2024",
             "modification_time": "Tue Jul  9 20:19:57 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformers/img/cover.png"
         },
         "Transformers_code": {
@@ -328,8 +328,8 @@
             "abstract": "加载数据集 其他操作 查看数据集格式 类型为`DatasetDict` 数据集分为：`train`（训练集）、`validation`（验证集）、`test`（测试集） 每个集合内的数据列名`feature`，和数据条数`num_rows` 查看训练集的第一条数据内容 查看数据集属性（feature） 数据处理 语音处理 修改采样率 绘图 波形图waveform 声谱图spectrogram",
             "creation_time": "Thu Jul  4 16:36:16 2024",
             "modification_time": "Tue Jul  9 20:20:15 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformers/img/cover.png"
         },
         "unity": {
@@ -340,8 +340,8 @@
             "abstract": "视图中心 选中物体，按`F`键将视野移动到物体中心。 透视与正交 透视（Persp） 正交（Iso）：物体大小与距离无关 $$ y(x)= \\sum_{i=0}^na_{i}x^i$$ c#脚本 物体",
             "creation_time": "Thu Jul  4 16:38:46 2024",
             "modification_time": "Tue Jul  9 20:22:00 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/unity/img/cover.png"
         },
         "vue": {
@@ -352,8 +352,8 @@
             "abstract": "问题总结 你这个系统用的什么（框架/库）做的？ 用的vue（是一种[渐进式](渐进式)框架，[组件式](# 组件式)开发）,页面设计使用了`element-plus`库。 用的什么工具开发？ 用的`VScode`（读音：v s code 全程： visual studio code） 使用的什么数据库？ 我们没有使用数据库，登录和注册功能是将账号密码当成**变量**存储在项目里。 具体：为了简单，",
             "creation_time": "Thu Jul  4 16:16:26 2024",
             "modification_time": "Tue Jul  9 20:22:50 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/vue/img/cover.jpg"
         },
         "六级": {
@@ -364,8 +364,8 @@
             "abstract": "",
             "creation_time": "Thu Jul  4 16:39:36 2024",
             "modification_time": "Tue Jul  9 20:23:56 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/四六级/img/cover.png"
         },
         "学习目标": {
@@ -376,8 +376,8 @@
             "abstract": "学习目标 英语 论文专业英语 六级 AI 桌面助手 具有360°视觉，听觉和其他感知，可以行动、说话、显示等功能。 吉他 电子琴 种花 学习内容总结（未分类） Seaborn https://seaborn.pydata.org/examples/ python，Seaborn是一个强大的数据可视化工具，通过简洁的接口和丰富的功能，可以帮助用户更轻松地进行数据分析和展示。 学习目标总结 面向公共大",
             "creation_time": "Thu Jul  4 16:40:15 2024",
             "modification_time": "Tue Jul  9 20:27:13 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/学习目标/img/cover.png"
         },
         "”华为杯“数学建模": {
@@ -388,8 +388,8 @@
             "abstract": "竞赛设立一、二、三等奖、华为专项奖、数模之星、数模之星提名奖、成功参赛奖、参赛单位优秀组织奖等 总共`34.5%`的人可以得奖，其中： -一等奖：`1.5%`-二等奖：`13%`-三等奖：`20%` 题型分布 华为专项题（2题） 比较偏工科 2022： `A`题：移动场景超分辨定位问题 `B`题：方形件组批优化问题 最优化题目（2题） 比较偏统计 2022： `C`题：汽车制造涂装-总装缓存调序区",
             "creation_time": "Mon Jun 17 21:40:15 2024",
             "modification_time": "Tue Jul  9 20:29:53 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/数学建模/img/cover-”华为杯“数学建模.png"
         },
         "机械臂(小)助手": {
@@ -400,8 +400,8 @@
             "abstract": "零件参数 步进电机 42步进电机 高度 短款： 23.5mm 普通： 38mm 长款： 48mm 出轴 直径 5mm 长度 22mm 宽度 42mm 孔位 位置宽度 31mm 直径大小 3mm 有效深度 5mm 凸起 直径 22mm 高度 2mm 接口处 宽度 16.2mm 高度 9.2mm 突出 5.5mm 普通款 短款 28步进电机 出轴长度：13mm 孔距离： 23mm 孔径： 3mm 行星",
             "creation_time": "Thu Jul  4 16:39:00 2024",
             "modification_time": "Fri Jun 28 15:31:06 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/机械臂(小)助手/img/cover.jpeg"
         },
         "驱动Emm_V5.0": {
@@ -412,8 +412,8 @@
             "abstract": "最大电流3000mA，最高转速 3000RPM+ 第一次上电自检 可能会出现的错误： **提示 1 秒“Not Cal”，然后进入校准菜单（此时只有 6 个菜单项，含 Exit 项）** 原因：未进行校准 没进行过编码器校准的闭环电机只有 6 个菜单项，分别是“Cal”、“MotType”、“P_Pul”、“P_Serial”、“Restore”、“Exit”； 按照电机类型修改`mottype ",
             "creation_time": "Thu Jul  4 16:39:00 2024",
             "modification_time": "Sun Jun 30 09:35:55 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/机械臂(小)助手/img/cover.jpeg"
         },
         "论文相关基础知识扫盲": {
@@ -424,8 +424,8 @@
             "abstract": "比如机构、期刊、专有名词等的介绍。 机构 **SCI* （Science Citation Index) ScienceCitation Index，科学引文索引 是一个索引库，收录了全球出版的数、理、化、农、林、医、生命科学等自然科学各学科核心期刊3700多种 分区分为了`JCR分区`和`中科院分区` JCR分区 划分了236个学科，根据当年的影响因子排名，每个学科平均分为了四个等级： Q1： ",
             "creation_time": "Fri Jul  5 13:45:07 2024",
             "modification_time": "Tue Jul  9 20:27:36 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/研究生扫盲/img/cover.jpeg"
         },
         "立创开发板·泰山派RK3566": {
@@ -436,8 +436,8 @@
             "abstract": "目录 第一章 简介 烧录Ubuntu固件 准备ubuntu的img镜像文件 （我下载后放在了[D:\\Code_Download\\Linux\\ubuntu\\ubuntu20.04_hdmi_20231130_update.img](D:\\Code_Download\\Linux\\ubuntu)） 使用烧录工具（`RKDevTool_Release_v2.92`）进行烧录 首先进入loader模式 按住",
             "creation_time": "Thu Jul  4 16:39:20 2024",
             "modification_time": "Tue Jul  9 20:32:04 2024",
-            "taglist": [],
-            "grouplist": [],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/立创开发板·泰山派RK3566/img/cover.png"
         }
     },
