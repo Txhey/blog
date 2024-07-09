@@ -3,6 +3,7 @@ import glob
 import json
 import time
 import re
+from datetime import datetime
 
 
 # 获取文件摘要（去除标题符号、代码块、表格、空白符）
@@ -76,7 +77,7 @@ def search_md_files(base_path):
         creation_time = time.ctime(os.path.getctime(md_file))
         modification_time = time.ctime(os.path.getmtime(md_file))
         # 获取文件的摘要
-        title, abstract = get_title_and_extract_from_md(os.path.join(base_path,md_file))
+        title, abstract = get_title_and_extract_from_md(os.path.join(base_path, md_file))
 
         # 假设存在同名的.tconf文件
         tconf_file = md_file.replace('.md', '.tconf')
@@ -85,9 +86,10 @@ def search_md_files(base_path):
 
         if os.path.exists(tconf_file):
             with open(tconf_file, 'r', encoding='utf-8') as f:
+                print(tconf_file)
                 tconf_data = json.load(f)
-                taglist = tconf_data.get('tagList', [])
-                grouplist = tconf_data.get('groupList', [])
+                tagList = tconf_data.get('tagList', [])
+                groupList = tconf_data.get('groupList', [])
         else:
             # 如果.tconf文件不存在，则创建一个带有默认内容的.json文件
             default_tconf_content = {"tagList": [], "groupList": []}
@@ -124,23 +126,33 @@ def search_md_files(base_path):
             'abstract': abstract,
             'creation_time': creation_time,
             'modification_time': modification_time,
-            'tagList': taglist,
-            'groupList': grouplist,
+            'tagList': tagList,
+            'groupList': groupList,
             'img': img_url
         }
 
     # 根据创建时间对file_info_dict的key进行排序
-    sorted_keys = sorted(file_info_dict.keys(), key=lambda k: file_info_dict[k]['creation_time'])
+    file_list = list(file_info_dict.values())
+
+    # 按照创建时间排序
+    sortByCreateTimeList = sorted(file_list,
+                                  key=lambda x: datetime.strptime(x['creation_time'], "%a %b %d %H:%M:%S %Y"),
+                                  reverse=True)
+    # 按modification_time排序
+    sortByLastModifyList = sorted(file_list,
+                              key=lambda x: datetime.strptime(x['modification_time'], "%a %b %d %H:%M:%S %Y"),
+                              reverse=True)
 
     # 创建排序后的列表，用于sortByCreateTime字段
-    sortByCreateTime = [file_key for file_key in sorted_keys]
-
+    sortByCreateTime = [item["key"] for item in sortByCreateTimeList]
+    sortByLastModify = [item["key"] for item in sortByLastModifyList]
     # 创建总的结构
     structure = {
         "fileList": file_info_dict,
         "tagSummary": tag_summary,
         "groupSummary": group_summary,
-        "sortByCreateTime": sortByCreateTime
+        "sortByCreateTime": sortByCreateTime,
+        "sortByLastModify": sortByLastModify
     }
 
     # 将结构保存到structure.json文件中

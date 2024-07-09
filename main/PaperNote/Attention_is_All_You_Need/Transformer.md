@@ -14,6 +14,7 @@
 
 
 
+
 ## Conclusion
 
 以往的序列转换模型都使用复杂的循环或者卷积网络，或者通过Attention机制连接Encoder Decoder。本篇论文提出了一个完全基于Attention机制的序列转换模型：**Transformer**。

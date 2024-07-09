@@ -8,7 +8,10 @@
             "abstract": "loading…",
             "creation_time": "Thu Jul  4 16:26:33 2024",
             "modification_time": "Tue Jul  9 20:04:43 2024",
-            "tagList": [],
+            "tagList": [
+                "3D打印",
+                "3D"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/3D/img/cover-3D打印机笔记.jpg"
         },
@@ -25,7 +28,7 @@
                 "办公"
             ],
             "groupList": [
-                "工具"
+                "tool"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/excel/img/cover-excel.png"
         },
@@ -53,7 +56,10 @@
             "abstract": "AI自主学习的机械臂",
             "creation_time": "Thu Jul  4 16:29:19 2024",
             "modification_time": "Thu Jul  4 16:30:09 2024",
-            "tagList": [],
+            "tagList": [
+                "idea",
+                "奇思妙想"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/idea_box/img/cover-idea-AI机械臂.jpg"
         },
@@ -83,7 +89,10 @@
             "abstract": "kaggle教程",
             "creation_time": "Thu Jul  4 16:33:55 2024",
             "modification_time": "Tue Jul  9 20:03:50 2024",
-            "tagList": [],
+            "tagList": [
+                "kaggle",
+                "tool"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/kaggle/img/cover-kaggle.png"
         },
@@ -95,8 +104,13 @@
             "abstract": "https://www.cnblogs.com/beyondChan/p/11394854.html **四则运算** 1.加法运算，符号：`+`，如：x+y=z𝑥+𝑦=𝑧2.减法运算，符号：`-`，如：x−y=z𝑥−𝑦=𝑧3.加减运算，符号：`\\pm`，如：x±y=z𝑥±𝑦=𝑧4.减甲运算，符号：`\\mp`，如：x∓y=z𝑥∓𝑦=𝑧5.乘法运算，符号：`\\times`，如：x×y=z𝑥×𝑦=𝑧6",
             "creation_time": "Thu Jul  4 16:34:30 2024",
             "modification_time": "Tue Jul  9 20:04:48 2024",
-            "tagList": [],
-            "groupList": [],
+            "tagList": [
+                "markdown",
+                "tool"
+            ],
+            "groupList": [
+                "tool"
+            ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/markdown/img/cover-markdown.png"
         },
         "Transformer": {
@@ -106,7 +120,7 @@
             "title": "[论文精读] Attention Is All You Need",
             "abstract": "**Author**: 谷歌出品 **Publication**: 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA. **Link**: https://arxiv.org/abs/1706.03762 **Last Modify**: `[v7]` Wed, 2 A",
             "creation_time": "Tue Jul  9 13:07:44 2024",
-            "modification_time": "Tue Jul  9 19:16:08 2024",
+            "modification_time": "Tue Jul  9 21:18:27 2024",
             "tagList": [
                 "论文笔记",
                 "Transformer",
@@ -126,7 +140,7 @@
             "creation_time": "Thu Jul  4 16:12:42 2024",
             "modification_time": "Tue Jul  9 20:06:25 2024",
             "tagList": [
-                "论文笔记",
+                "论文翻译",
                 "Transformer",
                 "Attention"
             ],
@@ -180,7 +194,7 @@
             "creation_time": "Sat Jul  6 17:30:52 2024",
             "modification_time": "Sat Jul  6 17:32:22 2024",
             "tagList": [
-                "论文笔记",
+                "论文翻译",
                 "K-mean"
             ],
             "groupList": [
@@ -256,7 +270,11 @@
             "abstract": "初始化",
             "creation_time": "Thu Jul  4 16:34:48 2024",
             "modification_time": "Tue Jul  9 20:01:03 2024",
-            "tagList": [],
+            "tagList": [
+                "python",
+                "numpy",
+                "教程"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/python\\numpy/img/cover-numpy.png"
         },
@@ -268,7 +286,11 @@
             "abstract": "",
             "creation_time": "Thu Jul  4 16:35:21 2024",
             "modification_time": "Tue Jul  9 20:16:56 2024",
-            "tagList": [],
+            "tagList": [
+                "python",
+                "plt",
+                "教程"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/python\\plt/img/MatplotlibTutorial.png"
         },
@@ -280,7 +302,11 @@
             "abstract": "nn 数据结构 nn.Parameter 用于定义模型中需要学习的参数 为什么使用`nn.Parameter` -显式声明参数：通过 `nn.Parameter` 可以显式地声明模型的参数，这对于理解模型结构和调试非常有帮助。-自动优化：将张量包装为 `nn.Parameter` 后，优化器会自动识别这些参数并在训练过程中更新它们的值。 nn.ModuleList pytorch中的一个容器，类似",
             "creation_time": "Thu Jul  4 16:35:30 2024",
             "modification_time": "Tue Jul  9 20:01:21 2024",
-            "tagList": [],
+            "tagList": [
+                "python",
+                "pytorch",
+                "教程"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/python\\pytorch/img/cover.jpg"
         },
@@ -292,7 +318,11 @@
             "abstract": "`github.io版` 功能介绍 blog 笔记管理（存储、索引、查看） view 查看笔记 (还可查看该笔记的其他附件 pdf等) 左边是文件目录，中间主要查看的文件(markdown)内容，右上角悬浮菜单目录，右边是副浏览页，右上角可关闭。 点击左边的文件，比如pdf后，将会在右边展示以作参考。 点击md文件内容的其他笔记内容链接时，也将展示到右边。 实现：每次查看链接是否是note仓库的文",
             "creation_time": "Thu Jul  4 16:15:56 2024",
             "modification_time": "Tue Jul  9 20:17:39 2024",
-            "tagList": [],
+            "tagList": [
+                "project",
+                "Stary",
+                "个人网站"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Stary/img/cover-Stary.svg"
         },
@@ -304,7 +334,9 @@
             "abstract": ">This section uses single-file component syntax for code examples Computed values [json](./info.json) [../folderName/subFolder/subFolder2/file.md](../folderName/subFolder/subFolder2/file.md) [../folde",
             "creation_time": "Thu Jul  4 21:19:55 2024",
             "modification_time": "Tue Jul  9 20:01:55 2024",
-            "tagList": [],
+            "tagList": [
+                "test"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/test/img/cover-test.png"
         },
@@ -316,7 +348,11 @@
             "abstract": "Pipeline Tokenizer 处理batch Fast和 Slow Tokenizer Fast：基于Rust，更快，还会生成些其他数据 Slow：基于python，更慢 offset_mapping：每个词的开始index和末尾index Model",
             "creation_time": "Thu Jul  4 16:36:16 2024",
             "modification_time": "Tue Jul  9 20:19:57 2024",
-            "tagList": [],
+            "tagList": [
+                "hugging face",
+                "Transformers",
+                "tool"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformers/img/cover.png"
         },
@@ -328,7 +364,12 @@
             "abstract": "加载数据集 其他操作 查看数据集格式 类型为`DatasetDict` 数据集分为：`train`（训练集）、`validation`（验证集）、`test`（测试集） 每个集合内的数据列名`feature`，和数据条数`num_rows` 查看训练集的第一条数据内容 查看数据集属性（feature） 数据处理 语音处理 修改采样率 绘图 波形图waveform 声谱图spectrogram",
             "creation_time": "Thu Jul  4 16:36:16 2024",
             "modification_time": "Tue Jul  9 20:20:15 2024",
-            "tagList": [],
+            "tagList": [
+                "hugging face",
+                "Transformers",
+                "tool",
+                "code"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/Transformers/img/cover.png"
         },
@@ -340,7 +381,11 @@
             "abstract": "视图中心 选中物体，按`F`键将视野移动到物体中心。 透视与正交 透视（Persp） 正交（Iso）：物体大小与距离无关 $$ y(x)= \\sum_{i=0}^na_{i}x^i$$ c#脚本 物体",
             "creation_time": "Thu Jul  4 16:38:46 2024",
             "modification_time": "Tue Jul  9 20:22:00 2024",
-            "tagList": [],
+            "tagList": [
+                "unity",
+                "3D",
+                "教程"
+            ],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/unity/img/cover.png"
         },
@@ -421,9 +466,9 @@
             "relative_path": "研究生扫盲",
             "file_name": "论文相关基础知识扫盲.md",
             "title": "## 论文相关基础知识扫盲",
-            "abstract": "比如机构、期刊、专有名词等的介绍。 机构 **SCI* （Science Citation Index) ScienceCitation Index，科学引文索引 是一个索引库，收录了全球出版的数、理、化、农、林、医、生命科学等自然科学各学科核心期刊3700多种 分区分为了`JCR分区`和`中科院分区` JCR分区 划分了236个学科，根据当年的影响因子排名，每个学科平均分为了四个等级： Q1： ",
+            "abstract": "比如机构、期刊、专有名词等的介绍. 机构 **SCI* （Science Citation Index) ScienceCitation Index，科学引文索引 是一个索引库，收录了全球出版的数、理、化、农、林、医、生命科学等自然科学各学科核心期刊3700多种 分区分为了`JCR分区`和`中科院分区` JCR分区 划分了236个学科，根据当年的影响因子排名，每个学科平均分为了四个等级： Q1： ",
             "creation_time": "Fri Jul  5 13:45:07 2024",
-            "modification_time": "Tue Jul  9 20:27:36 2024",
+            "modification_time": "Tue Jul  9 21:21:20 2024",
             "tagList": [],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/研究生扫盲/img/cover.jpeg"
@@ -441,116 +486,74 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/立创开发板·泰山派RK3566/img/cover.png"
         }
     },
-    "tagSummary": {
-        "excel": [
-            "excel"
-        ],
-        "办公": [
-            "excel"
-        ],
-        "git": [
-            "git"
-        ],
-        "js": [
-            "js"
-        ],
-        "web": [
-            "js"
-        ],
-        "前端": [
-            "js"
-        ],
-        "论文笔记": [
-            "Transformer",
-            "Transformer_Translation",
-            "论文：BERT",
-            "k-mean",
-            "Scalable_K-Means-translation",
-            "Stereo"
-        ],
-        "Transformer": [
-            "Transformer",
-            "Transformer_Translation",
-            "论文：BERT"
-        ],
-        "Attention": [
-            "Transformer",
-            "Transformer_Translation",
-            "论文：BERT"
-        ],
-        "BERT": [
-            "论文：BERT"
-        ],
-        "K-mean": [
-            "k-mean",
-            "Scalable_K-Means-translation"
-        ],
-        "CV": [
-            "Stereo",
-            "Stereo_Matching_translation"
-        ],
-        "stereo": [
-            "Stereo",
-            "Stereo_Matching_translation"
-        ],
-        "论文翻译": [
-            "Stereo_Matching_translation"
-        ]
-    },
-    "groupSummary": {
-        "工具": [
-            "excel"
-        ],
-        "tool": [
-            "git"
-        ],
-        "前端": [
-            "js"
-        ],
-        "论文笔记": [
-            "Transformer",
-            "论文：BERT",
-            "k-mean",
-            "Stereo"
-        ],
-        "论文翻译": [
-            "Transformer_Translation",
-            "Scalable_K-Means-translation",
-            "Stereo_Matching_translation"
-        ]
-    },
+    "tagSummary": {},
+    "groupSummary": {},
     "sortByCreateTime": [
-        "Stereo",
-        "论文相关基础知识扫盲",
-        "Stereo_Matching_translation",
-        "”华为杯“数学建模",
-        "k-mean",
-        "Scalable_K-Means-translation",
-        "Visial Transformer",
+        "Transformer",
         "VIT_T",
-        "Transformer_Translation",
-        "论文：BERT",
-        "Stary",
-        "vue",
-        "3D打印笔记",
-        "excel",
-        "idea-AI机械臂",
-        "git",
-        "js",
-        "kaggle",
-        "markdown",
-        "numpy",
-        "plt",
-        "pytorch",
-        "Transformers",
-        "Transformers_code",
-        "unity",
+        "Visial Transformer",
+        "Scalable_K-Means-translation",
+        "k-mean",
+        "Stereo_Matching_translation",
+        "论文相关基础知识扫盲",
+        "Stereo",
+        "test",
+        "学习目标",
+        "六级",
+        "立创开发板·泰山派RK3566",
         "机械臂(小)助手",
         "驱动Emm_V5.0",
+        "unity",
+        "Transformers",
+        "Transformers_code",
+        "pytorch",
+        "plt",
+        "numpy",
+        "markdown",
+        "kaggle",
+        "js",
+        "git",
+        "idea-AI机械臂",
+        "excel",
+        "3D打印笔记",
+        "vue",
+        "Stary",
+        "Transformer_Translation",
+        "论文：BERT",
+        "”华为杯“数学建模"
+    ],
+    "sortByLastModify": [
+        "论文相关基础知识扫盲",
+        "Transformer",
         "立创开发板·泰山派RK3566",
-        "六级",
+        "”华为杯“数学建模",
         "学习目标",
+        "六级",
+        "vue",
+        "unity",
+        "Transformers_code",
+        "Transformers",
+        "Stary",
+        "plt",
+        "Visial Transformer",
+        "论文：BERT",
+        "k-mean",
+        "Transformer_Translation",
+        "markdown",
+        "3D打印笔记",
+        "kaggle",
+        "js",
         "test",
-        "Transformer"
+        "pytorch",
+        "numpy",
+        "Stereo",
+        "VIT_T",
+        "Stereo_Matching_translation",
+        "Scalable_K-Means-translation",
+        "idea-AI机械臂",
+        "驱动Emm_V5.0",
+        "机械臂(小)助手",
+        "excel",
+        "git"
     ]
 }
