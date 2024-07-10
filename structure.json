@@ -120,7 +120,7 @@
             "title": "[论文精读] Attention Is All You Need",
             "abstract": "**Author**: 谷歌出品 **Publication**: 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA. **Link**: https://arxiv.org/abs/1706.03762 **Last Modify**: `[v7]` Wed, 2 A",
             "creation_time": "Tue Jul  9 13:07:44 2024",
-            "modification_time": "Tue Jul  9 21:18:27 2024",
+            "modification_time": "Wed Jul 10 18:37:29 2024",
             "tagList": [
                 "论文笔记",
                 "Transformer",
@@ -669,8 +669,8 @@
         "”华为杯“数学建模"
     ],
     "sortByLastModify": [
-        "论文相关基础知识扫盲",
         "Transformer",
+        "论文相关基础知识扫盲",
         "立创开发板·泰山派RK3566",
         "”华为杯“数学建模",
         "学习目标",
