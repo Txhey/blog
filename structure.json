@@ -486,8 +486,154 @@
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/立创开发板·泰山派RK3566/img/cover.png"
         }
     },
-    "tagSummary": {},
-    "groupSummary": {},
+    "tagSummary": {
+        "3D打印": [
+            "3D打印笔记"
+        ],
+        "3D": [
+            "3D打印笔记",
+            "unity"
+        ],
+        "excel": [
+            "excel"
+        ],
+        "办公": [
+            "excel"
+        ],
+        "git": [
+            "git"
+        ],
+        "idea": [
+            "idea-AI机械臂"
+        ],
+        "奇思妙想": [
+            "idea-AI机械臂"
+        ],
+        "js": [
+            "js"
+        ],
+        "web": [
+            "js"
+        ],
+        "前端": [
+            "js"
+        ],
+        "kaggle": [
+            "kaggle"
+        ],
+        "tool": [
+            "kaggle",
+            "markdown",
+            "Transformers",
+            "Transformers_code"
+        ],
+        "markdown": [
+            "markdown"
+        ],
+        "论文笔记": [
+            "Transformer",
+            "论文：BERT",
+            "k-mean",
+            "Stereo"
+        ],
+        "Transformer": [
+            "Transformer",
+            "Transformer_Translation",
+            "论文：BERT"
+        ],
+        "Attention": [
+            "Transformer",
+            "Transformer_Translation",
+            "论文：BERT"
+        ],
+        "论文翻译": [
+            "Transformer_Translation",
+            "Scalable_K-Means-translation",
+            "Stereo_Matching_translation"
+        ],
+        "BERT": [
+            "论文：BERT"
+        ],
+        "K-mean": [
+            "k-mean",
+            "Scalable_K-Means-translation"
+        ],
+        "CV": [
+            "Stereo",
+            "Stereo_Matching_translation"
+        ],
+        "stereo": [
+            "Stereo",
+            "Stereo_Matching_translation"
+        ],
+        "python": [
+            "numpy",
+            "plt",
+            "pytorch"
+        ],
+        "numpy": [
+            "numpy"
+        ],
+        "教程": [
+            "numpy",
+            "plt",
+            "pytorch",
+            "unity"
+        ],
+        "plt": [
+            "plt"
+        ],
+        "pytorch": [
+            "pytorch"
+        ],
+        "project": [
+            "Stary"
+        ],
+        "Stary": [
+            "Stary"
+        ],
+        "个人网站": [
+            "Stary"
+        ],
+        "test": [
+            "test"
+        ],
+        "hugging face": [
+            "Transformers",
+            "Transformers_code"
+        ],
+        "Transformers": [
+            "Transformers",
+            "Transformers_code"
+        ],
+        "code": [
+            "Transformers_code"
+        ],
+        "unity": [
+            "unity"
+        ]
+    },
+    "groupSummary": {
+        "tool": [
+            "excel",
+            "git",
+            "markdown"
+        ],
+        "前端": [
+            "js"
+        ],
+        "论文笔记": [
+            "Transformer",
+            "论文：BERT",
+            "k-mean",
+            "Stereo"
+        ],
+        "论文翻译": [
+            "Transformer_Translation",
+            "Scalable_K-Means-translation",
+            "Stereo_Matching_translation"
+        ]
+    },
     "sortByCreateTime": [
         "Transformer",
         "VIT_T",

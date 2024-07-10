@@ -86,8 +86,8 @@ def search_md_files(base_path):
 
         if os.path.exists(tconf_file):
             with open(tconf_file, 'r', encoding='utf-8') as f:
-                print(tconf_file)
                 tconf_data = json.load(f)
+                print(tconf_data)
                 tagList = tconf_data.get('tagList', [])
                 groupList = tconf_data.get('groupList', [])
         else:
@@ -97,12 +97,12 @@ def search_md_files(base_path):
                 json.dump(default_tconf_content, f, ensure_ascii=False)
 
         # 更新tag_summary和group_summary
-        for tag in taglist:
+        for tag in tagList:
             if tag not in tag_summary:
                 tag_summary[tag] = []
             tag_summary[tag].append(file_key)
 
-        for group in grouplist:
+        for group in groupList:
             if group not in group_summary:
                 group_summary[group] = []
             group_summary[group].append(file_key)
