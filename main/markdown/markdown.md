@@ -2,7 +2,55 @@
 
 https://www.cnblogs.com/beyondChan/p/11394854.html
 
-![A Super Simple Guide to Markdown for Web Developers | by Nehal Khan | Geek  Culture | Medium](./img/1eZ7YPTqzcyFVoQxIOIQ9kQ.png)
+## 希腊字母
+
+| 字母 | 实现       | 字母 | 实现       |
+| ---- | ---------- | ---- | ---------- |
+| A    | `A`        | α    | `\alhpa`   |
+| B    | `B`        | β    | `\beta`    |
+| Γ    | `\Gamma`   | γ    | `\gamma`   |
+| Δ    | `\Delta`   | δ    | `\delta`   |
+| E    | `E`        | ϵ    | `\epsilon` |
+| Z    | `Z`        | ζ    | `\zeta`    |
+| H    | `H`        | η    | `\eta`     |
+| Θ    | `\Theta`   | θ    | `\theta`   |
+| I    | `I`        | ι    | `\iota`    |
+| K    | `K`        | κ    | `\kappa`   |
+| Λ    | `\Lambda`  | λ    | `\lambda`  |
+| M    | `M`        | μ    | `\mu`      |
+| N    | `N`        | ν    | `\nu`      |
+| Ξ    | `\Xi`      | ξ    | `\xi`      |
+| O    | `O`        | ο    | `\omicron` |
+| Π    | `\Pi`      | π    | `\pi`      |
+| P    | `P`        | ρ    | `\rho`     |
+| Σ    | `\Sigma`   | σ    | `\sigma`   |
+| T    | `T`        | τ    | `\tau`     |
+| Υ    | `\Upsilon` | υ    | `\upsilon` |
+| Φ    | `\Phi`     | ϕ    | `\phi`     |
+| X    | `X`        | χ    | `\chi`     |
+| Ψ    | `\Psi`     | ψ    | `\psi`     |
+| Ω    | `\v`       | ω    | `\omega`   |
+
+
+
+
+
+
+$$
+偏导： \partial \\
+积分： \int \\
+无穷： \infty
+$$
+
+
+
+
+
+### 空格
+
+![img](./img/v2-10dbe4c6af3a91973504203832d8e5f2_720w.webp)
+
+
 
 ## 公式
 
@@ -158,47 +206,6 @@ $$
 
 
 
-## 希腊字母
-
-| 字母 | 实现       | 字母 | 实现       |
-| ---- | ---------- | ---- | ---------- |
-| A    | `A`        | α    | `\alhpa`   |
-| B    | `B`        | β    | `\beta`    |
-| Γ    | `\Gamma`   | γ    | `\gamma`   |
-| Δ    | `\Delta`   | δ    | `\delta`   |
-| E    | `E`        | ϵ    | `\epsilon` |
-| Z    | `Z`        | ζ    | `\zeta`    |
-| H    | `H`        | η    | `\eta`     |
-| Θ    | `\Theta`   | θ    | `\theta`   |
-| I    | `I`        | ι    | `\iota`    |
-| K    | `K`        | κ    | `\kappa`   |
-| Λ    | `\Lambda`  | λ    | `\lambda`  |
-| M    | `M`        | μ    | `\mu`      |
-| N    | `N`        | ν    | `\nu`      |
-| Ξ    | `\Xi`      | ξ    | `\xi`      |
-| O    | `O`        | ο    | `\omicron` |
-| Π    | `\Pi`      | π    | `\pi`      |
-| P    | `P`        | ρ    | `\rho`     |
-| Σ    | `\Sigma`   | σ    | `\sigma`   |
-| T    | `T`        | τ    | `\tau`     |
-| Υ    | `\Upsilon` | υ    | `\upsilon` |
-| Φ    | `\Phi`     | ϕ    | `\phi`     |
-| X    | `X`        | χ    | `\chi`     |
-| Ψ    | `\Psi`     | ψ    | `\psi`     |
-| Ω    | `\v`       | ω    | `\omega`   |
-
-
-
-
-
-
-$$
-偏导： \partial
-$$
-
-
-
-
 
 
 
@@ -248,9 +255,7 @@ $$
 
 
 
-### 空格
 
-![img](./img/v2-10dbe4c6af3a91973504203832d8e5f2_720w.webp)
 
 
 

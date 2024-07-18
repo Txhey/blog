@@ -101,9 +101,9 @@
             "relative_path": "markdown",
             "file_name": "markdown.md",
             "title": "markdown 笔记",
-            "abstract": "https://www.cnblogs.com/beyondChan/p/11394854.html **四则运算** 1.加法运算，符号：`+`，如：x+y=z𝑥+𝑦=𝑧2.减法运算，符号：`-`，如：x−y=z𝑥−𝑦=𝑧3.加减运算，符号：`\\pm`，如：x±y=z𝑥±𝑦=𝑧4.减甲运算，符号：`\\mp`，如：x∓y=z𝑥∓𝑦=𝑧5.乘法运算，符号：`\\times`，如：x×y=z𝑥×𝑦=𝑧6",
+            "abstract": "https://www.cnblogs.com/beyondChan/p/11394854.html 希腊字母 $$ 偏导：\\partial \\\\积分：\\int \\\\无穷：\\infty$$ 空格 公式 段前和断后使用 \\$\\$ 公式内容 \\$\\$ 公式标记 $$ \\begin{align*} y= x \\tag{1} \\\\y= x^2 \\tag{2} \\\\\\end{align*} $$ `alig",
             "creation_time": "Thu Jul  4 16:34:30 2024",
-            "modification_time": "Tue Jul  9 20:04:48 2024",
+            "modification_time": "Wed Jul 17 10:50:04 2024",
             "tagList": [
                 "markdown",
                 "tool"
@@ -112,6 +112,23 @@
                 "tool"
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/markdown/img/cover-markdown.png"
+        },
+        "math_base": {
+            "key": "math_base",
+            "relative_path": "math",
+            "file_name": "math_base.md",
+            "title": "数学基本知识总结",
+            "abstract": "伽马函数 $$ \\Gamma $$ (Gamma) 定义 $$ Γ(z)=∫_0^∞t^{z−1} e^{t}dt$$ **对于正整数**： $$ \\Gamma(n)= (n-1)!$$ n为正整数，例如： Γ(1)=0!=1 Γ(2)=1!=1 Γ(3)=2!=2 **对于非整数**： 也符合上述公式，例如： $$Γ(\\frac{1}{2}) = \\sqrt{\\pi}$$ $$Γ(\\frac{3",
+            "creation_time": "Sat Jul 13 17:49:50 2024",
+            "modification_time": "Sat Jul 13 18:17:38 2024",
+            "tagList": [
+                "markdown",
+                "tool"
+            ],
+            "groupList": [
+                "tool"
+            ],
+            "img": null
         },
         "Transformer": {
             "key": "Transformer",
@@ -170,7 +187,7 @@
         },
         "k-mean": {
             "key": "k-mean",
-            "relative_path": "PaperNote\\cluster",
+            "relative_path": "PaperNote\\cluster\\Scalable-K-Means-translation",
             "file_name": "k-mean.md",
             "title": "[论文精读] Scalable K-Means by Ranked Retrieval",
             "abstract": "通过排序检索技术扩展K-Means算法 **author**: Andrei Broder, Lluis Garcia-Pueyo, Vanja Josifovski, Sergei Vassilvitskii, Srihari Venkatesan **publication**: ACM SIGMOD 2022 （CFF A） **link**: https://dl.acm.org/doi/",
@@ -183,11 +200,11 @@
             "groupList": [
                 "论文笔记"
             ],
-            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster/img/cover.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster\\Scalable-K-Means-translation/img/cover.png"
         },
         "Scalable_K-Means-translation": {
             "key": "Scalable_K-Means-translation",
-            "relative_path": "PaperNote\\cluster",
+            "relative_path": "PaperNote\\cluster\\Scalable-K-Means-translation",
             "file_name": "Scalable_K-Means-translation.md",
             "title": "[论文翻译] Scalable K-Means by Ranked Retrieval",
             "abstract": "Abstract Thek-means clustering algorithm has a long history and a proven practical performance, however it does not scale to clustering millions of data points into thousands of clusters in high dimen",
@@ -200,7 +217,24 @@
             "groupList": [
                 "论文翻译"
             ],
-            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster/img/cover.png"
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster\\Scalable-K-Means-translation/img/cover.png"
+        },
+        "Unsupervised_Deep_Embedding_for_Clustering_Analysis": {
+            "key": "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
+            "relative_path": "PaperNote\\cluster\\Unsupervised_Deep_Embedding_for_Clustering_Analysis",
+            "file_name": "Unsupervised_Deep_Embedding_for_Clustering_Analysis.md",
+            "title": "Unsupervised Deep Embedding for Clustering Analysis",
+            "abstract": "Author: Junyuan Xie, Rose Girshick, Ali Farhadi Pubulication: ICML 2016 (International Conference of Machine Learning, 国际机器学习会议) Date: 2016.06 Link: https://arxiv.org/abs/1511.06335 论文中提出了一种结合深度学习和无监督",
+            "creation_time": "Sat Jul 13 13:27:41 2024",
+            "modification_time": "Thu Jul 18 14:07:25 2024",
+            "tagList": [
+                "论文翻译",
+                "K-mean"
+            ],
+            "groupList": [
+                "论文翻译"
+            ],
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster\\Unsupervised_Deep_Embedding_for_Clustering_Analysis/img/1580489179006.jpeg"
         },
         "Stereo": {
             "key": "Stereo",
@@ -461,6 +495,18 @@
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/机械臂(小)助手/img/cover.jpeg"
         },
+        "2024_07_14": {
+            "key": "2024_07_14",
+            "relative_path": "研0培训",
+            "file_name": "2024_07_14.md",
+            "title": "title not found",
+            "abstract": "",
+            "creation_time": "Sun Jul 14 13:57:51 2024",
+            "modification_time": "Sun Jul 14 13:57:51 2024",
+            "tagList": [],
+            "groupList": [],
+            "img": null
+        },
         "论文相关基础知识扫盲": {
             "key": "论文相关基础知识扫盲",
             "relative_path": "研究生扫盲",
@@ -524,11 +570,13 @@
         "tool": [
             "kaggle",
             "markdown",
+            "math_base",
             "Transformers",
             "Transformers_code"
         ],
         "markdown": [
-            "markdown"
+            "markdown",
+            "math_base"
         ],
         "论文笔记": [
             "Transformer",
@@ -549,6 +597,7 @@
         "论文翻译": [
             "Transformer_Translation",
             "Scalable_K-Means-translation",
+            "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
             "Stereo_Matching_translation"
         ],
         "BERT": [
@@ -556,7 +605,8 @@
         ],
         "K-mean": [
             "k-mean",
-            "Scalable_K-Means-translation"
+            "Scalable_K-Means-translation",
+            "Unsupervised_Deep_Embedding_for_Clustering_Analysis"
         ],
         "CV": [
             "Stereo",
@@ -617,7 +667,8 @@
         "tool": [
             "excel",
             "git",
-            "markdown"
+            "markdown",
+            "math_base"
         ],
         "前端": [
             "js"
@@ -631,10 +682,14 @@
         "论文翻译": [
             "Transformer_Translation",
             "Scalable_K-Means-translation",
+            "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
             "Stereo_Matching_translation"
         ]
     },
     "sortByCreateTime": [
+        "2024_07_14",
+        "math_base",
+        "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
         "Transformer",
         "VIT_T",
         "Visial Transformer",
@@ -669,6 +724,10 @@
         "”华为杯“数学建模"
     ],
     "sortByLastModify": [
+        "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
+        "markdown",
+        "2024_07_14",
+        "math_base",
         "Transformer",
         "论文相关基础知识扫盲",
         "立创开发板·泰山派RK3566",
@@ -685,7 +744,6 @@
         "论文：BERT",
         "k-mean",
         "Transformer_Translation",
-        "markdown",
         "3D打印笔记",
         "kaggle",
         "js",
