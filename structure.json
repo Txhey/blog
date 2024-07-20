@@ -222,9 +222,13 @@
             "abstract": "Author: Junyuan Xie, Rose Girshick, Ali Farhadi Pubulication: ICML 2016 (International Conference of Machine Learning, 国际机器学习会议) Date: 2016.06 Link: https://arxiv.org/abs/1511.06335 论文中提出了一种结合深度学习和无监督",
             "creation_time": "Sat Jul 13 13:27:41 2024",
             "modification_time": "Thu Jul 18 14:07:25 2024",
-            "tagList": [],
-            "groupList": [],
-            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster\\Unsupervised_Deep_Embedding_for_Clustering_Analysis/img/1580489179006.jpeg"
+            "tagList": [
+                "clustering, unsupervised learning"
+            ],
+            "groupList": [
+                "论文笔记"
+            ],
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster\\Unsupervised_Deep_Embedding_for_Clustering_Analysis/img/cover.png"
         },
         "Stereo": {
             "key": "Stereo",
@@ -501,10 +505,10 @@
             "key": "2024_07_14",
             "relative_path": "研0培训",
             "file_name": "2024_07_14.md",
-            "title": "title not found",
-            "abstract": "",
+            "title": "研0培训笔记",
+            "abstract": "AI工具的使用 chatGPT Kimi chatpdf perpelexity * zlibrary",
             "creation_time": "Sun Jul 14 13:57:51 2024",
-            "modification_time": "Sun Jul 14 13:57:51 2024",
+            "modification_time": "Sat Jul 20 11:13:25 2024",
             "tagList": [],
             "groupList": [],
             "img": null
@@ -606,6 +610,9 @@
             "k-mean",
             "Scalable_K-Means-translation"
         ],
+        "clustering, unsupervised learning": [
+            "Unsupervised_Deep_Embedding_for_Clustering_Analysis"
+        ],
         "CV": [
             "Stereo",
             "Stereo_Matching_translation"
@@ -674,6 +681,7 @@
             "Transformer",
             "论文：BERT",
             "k-mean",
+            "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
             "Stereo"
         ],
         "论文翻译": [
@@ -721,11 +729,11 @@
         "”华为杯“数学建模"
     ],
     "sortByLastModify": [
+        "2024_07_14",
         "机械臂(小)助手",
         "机械臂零件数据",
         "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
         "markdown",
-        "2024_07_14",
         "math_base",
         "Transformer",
         "论文相关基础知识扫盲",
