@@ -2,6 +2,26 @@
 
 > This section uses single-file component syntax for code examples
 
+
+
+## 单行公式测试
+
+普通模式
+$$
+f(x) = x
+\\
+f(x) = y
+$$
+单行公式
+
+$$ f(x) = x^2 $$
+
+
+
+
+
+
+
 # Computed values
 
 [json](./info.json)

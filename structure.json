@@ -361,9 +361,9 @@
             "relative_path": "test",
             "file_name": "test.md",
             "title": "[test] Computed and Watch",
-            "abstract": ">This section uses single-file component syntax for code examples Computed values [json](./info.json) [../folderName/subFolder/subFolder2/file.md](../folderName/subFolder/subFolder2/file.md) [../folde",
+            "abstract": ">This section uses single-file component syntax for code examples 单行公式测试 普通模式 $$ f(x)= x\\\\ f(x)= y$$ 单行公式 $$f(x) = x^2 $$ Computed values [json](./info.json) [../folderName/subFolder/subFolder2/file.m",
             "creation_time": "Thu Jul  4 21:19:55 2024",
-            "modification_time": "Tue Jul  9 20:01:55 2024",
+            "modification_time": "Sat Jul 20 12:50:26 2024",
             "tagList": [
                 "test"
             ],
@@ -735,6 +735,7 @@
         "”华为杯“数学建模"
     ],
     "sortByLastModify": [
+        "test",
         "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
         "2024_07_14",
         "机械臂(小)助手",
@@ -760,7 +761,6 @@
         "3D打印笔记",
         "kaggle",
         "js",
-        "test",
         "pytorch",
         "numpy",
         "Stereo",
