@@ -1,6 +1,6 @@
 # Unsupervised Deep Embedding for Clustering Analysis
 
-![image-20240717093158876](./img/image-20240717093158876.png)
+![image-20240717093158876](./img/cover.png)
 
 * Author: Junyuan Xie, Rose Girshick, Ali Farhadi
 * Pubulication: ICML 2016 (International Conference of Machine Learning, 国际机器学习会议)
@@ -76,13 +76,11 @@ $$
 
 使用SGD联合优化$$\mu_j$$ 和 $$\theta$$ .
 $$
-\begin{align}
-& \frac{\partial L}{\partial z_i} = \frac{\alpha + 1}{\alpha} \sum_j(1 + \frac{||z_i-\mu_j||^2}{\alpha})^{-1} \times (p_{ij}-q{ij})(z_i-\mu_j)
-\\
-& \frac{\partial L}{\partial \mu_j} = -\frac{\alpha +1}{\alpha}\sum_i(1+\frac{||z_i-\mu_j||^2}{\alpha})^{-1}
-\times (p_{ij}-q{ij})(z_i-\mu_j)
 
-\end{align}
+\frac{\partial L}{\partial z_i} = \frac{\alpha + 1}{\alpha} \sum_j(1 + \frac{||z_i-\mu_j||^2}{\alpha})^{-1} \times (p_{ij}-q{ij})(z_i-\mu_j)
+\\
+\frac{\partial L}{\partial \mu_j} = -\frac{\alpha +1}{\alpha}\sum_i(1+\frac{||z_i-\mu_j||^2}{\alpha})^{-1}
+\times (p_{ij}-q{ij})(z_i-\mu_j)
 $$
 根据梯度值更新DNN的参数。
 
