@@ -121,13 +121,8 @@
             "abstract": "伽马函数 $$ \\Gamma $$ (Gamma) 定义 $$ Γ(z)=∫_0^∞t^{z−1} e^{t}dt$$ **对于正整数**： $$ \\Gamma(n)= (n-1)!$$ n为正整数，例如： Γ(1)=0!=1 Γ(2)=1!=1 Γ(3)=2!=2 **对于非整数**： 也符合上述公式，例如： $$Γ(\\frac{1}{2}) = \\sqrt{\\pi}$$ $$Γ(\\frac{3",
             "creation_time": "Sat Jul 13 17:49:50 2024",
             "modification_time": "Sat Jul 13 18:17:38 2024",
-            "tagList": [
-                "markdown",
-                "tool"
-            ],
-            "groupList": [
-                "tool"
-            ],
+            "tagList": [],
+            "groupList": [],
             "img": null
         },
         "Transformer": {
@@ -227,13 +222,8 @@
             "abstract": "Author: Junyuan Xie, Rose Girshick, Ali Farhadi Pubulication: ICML 2016 (International Conference of Machine Learning, 国际机器学习会议) Date: 2016.06 Link: https://arxiv.org/abs/1511.06335 论文中提出了一种结合深度学习和无监督",
             "creation_time": "Sat Jul 13 13:27:41 2024",
             "modification_time": "Thu Jul 18 14:07:25 2024",
-            "tagList": [
-                "论文翻译",
-                "K-mean"
-            ],
-            "groupList": [
-                "论文翻译"
-            ],
+            "tagList": [],
+            "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\cluster\\Unsupervised_Deep_Embedding_for_Clustering_Analysis/img/1580489179006.jpeg"
         },
         "Stereo": {
@@ -475,10 +465,22 @@
             "key": "机械臂(小)助手",
             "relative_path": "机械臂(小)助手",
             "file_name": "机械臂(小)助手.md",
-            "title": "机械臂助手笔记",
-            "abstract": "零件参数 步进电机 42步进电机 高度 短款： 23.5mm 普通： 38mm 长款： 48mm 出轴 直径 5mm 长度 22mm 宽度 42mm 孔位 位置宽度 31mm 直径大小 3mm 有效深度 5mm 凸起 直径 22mm 高度 2mm 接口处 宽度 16.2mm 高度 9.2mm 突出 5.5mm 普通款 短款 28步进电机 出轴长度：13mm 孔距离： 23mm 孔径： 3mm 行星",
+            "title": "机械臂(小)助手项目笔记",
+            "abstract": "[结构设计及实现笔记](C:\\Users\\田合兰\\Desktop\\AI机械臂.md) 软件 Linux python 深度学习 聚类 硬件 标准件 亚克力 步进电机闭环驱动 减速器 泰山派主控 24V电源 传感器 双目相机 麦克风 陀螺仪 温湿度",
             "creation_time": "Thu Jul  4 16:39:00 2024",
-            "modification_time": "Fri Jun 28 15:31:06 2024",
+            "modification_time": "Fri Jul 19 13:33:36 2024",
+            "tagList": [],
+            "groupList": [],
+            "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/机械臂(小)助手/img/cover.jpeg"
+        },
+        "机械臂零件数据": {
+            "key": "机械臂零件数据",
+            "relative_path": "机械臂(小)助手",
+            "file_name": "机械臂零件数据.md",
+            "title": "机械臂零件数据",
+            "abstract": "零件参数 步进电机 42步进电机 高度 短款： 23.5mm 普通： 38mm 长款： 48mm 出轴 直径 5mm 长度 22mm 宽度 42mm 孔位 位置宽度 31mm 直径大小 3mm 有效深度 5mm 凸起 直径 22mm 高度 2mm 接口处 宽度 16.2mm 高度 9.2mm 突出 5.5mm 普通款 短款 28步进电机 出轴长度：13mm 孔距离： 23mm 孔径： 3mm 行星",
+            "creation_time": "Fri Jul 19 13:21:09 2024",
+            "modification_time": "Fri Jul 19 13:22:00 2024",
             "tagList": [],
             "groupList": [],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/机械臂(小)助手/img/cover.jpeg"
@@ -570,13 +572,11 @@
         "tool": [
             "kaggle",
             "markdown",
-            "math_base",
             "Transformers",
             "Transformers_code"
         ],
         "markdown": [
-            "markdown",
-            "math_base"
+            "markdown"
         ],
         "论文笔记": [
             "Transformer",
@@ -597,7 +597,6 @@
         "论文翻译": [
             "Transformer_Translation",
             "Scalable_K-Means-translation",
-            "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
             "Stereo_Matching_translation"
         ],
         "BERT": [
@@ -605,8 +604,7 @@
         ],
         "K-mean": [
             "k-mean",
-            "Scalable_K-Means-translation",
-            "Unsupervised_Deep_Embedding_for_Clustering_Analysis"
+            "Scalable_K-Means-translation"
         ],
         "CV": [
             "Stereo",
@@ -667,8 +665,7 @@
         "tool": [
             "excel",
             "git",
-            "markdown",
-            "math_base"
+            "markdown"
         ],
         "前端": [
             "js"
@@ -682,11 +679,11 @@
         "论文翻译": [
             "Transformer_Translation",
             "Scalable_K-Means-translation",
-            "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
             "Stereo_Matching_translation"
         ]
     },
     "sortByCreateTime": [
+        "机械臂零件数据",
         "2024_07_14",
         "math_base",
         "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
@@ -724,6 +721,8 @@
         "”华为杯“数学建模"
     ],
     "sortByLastModify": [
+        "机械臂(小)助手",
+        "机械臂零件数据",
         "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
         "markdown",
         "2024_07_14",
@@ -756,7 +755,6 @@
         "Scalable_K-Means-translation",
         "idea-AI机械臂",
         "驱动Emm_V5.0",
-        "机械臂(小)助手",
         "excel",
         "git"
     ]
