@@ -223,7 +223,9 @@
             "creation_time": "Sat Jul 13 13:27:41 2024",
             "modification_time": "Thu Jul 18 14:07:25 2024",
             "tagList": [
-                "clustering, unsupervised learning"
+                "论文笔记",
+                "clustering",
+                "unsupervised learning"
             ],
             "groupList": [
                 "论文笔记"
@@ -586,6 +588,7 @@
             "Transformer",
             "论文：BERT",
             "k-mean",
+            "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
             "Stereo"
         ],
         "Transformer": [
@@ -610,7 +613,10 @@
             "k-mean",
             "Scalable_K-Means-translation"
         ],
-        "clustering, unsupervised learning": [
+        "clustering": [
+            "Unsupervised_Deep_Embedding_for_Clustering_Analysis"
+        ],
+        "unsupervised learning": [
             "Unsupervised_Deep_Embedding_for_Clustering_Analysis"
         ],
         "CV": [
