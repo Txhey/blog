@@ -221,7 +221,7 @@
             "title": "Unsupervised Deep Embedding for Clustering Analysis",
             "abstract": "Author: Junyuan Xie, Rose Girshick, Ali Farhadi Pubulication: ICML 2016 (International Conference of Machine Learning, 国际机器学习会议) Date: 2016.06 Link: https://arxiv.org/abs/1511.06335 论文中提出了一种结合深度学习和无监督",
             "creation_time": "Sat Jul 13 13:27:41 2024",
-            "modification_time": "Sat Jul 20 13:00:45 2024",
+            "modification_time": "Sat Jul 20 13:29:04 2024",
             "tagList": [
                 "论文笔记",
                 "clustering",
@@ -361,9 +361,9 @@
             "relative_path": "test",
             "file_name": "test.md",
             "title": "[test] Computed and Watch",
-            "abstract": ">This section uses single-file component syntax for code examples 单行公式测试 普通模式 $$ f(x)= x\\\\ f(x)= y$$ 单行公式 $f(x)= x$ 这是单行公式$f(x) = x^2 $尾巴 这是单行公式 $f(x) = x^2$ 尾巴 这是单行公式$f(x) = x^2$ 尾巴 Computed values [",
+            "abstract": ">This section uses single-file component syntax for code examples 单行公式测试 普通模式 $$ f(x)= x\\\\ f(x)= y$$ 单行公式 $f(x)= x$ 这是单行公式$f(x) = x^2 $尾巴 这是单行公式 $f(x) = x^2$ 尾巴 加粗 **abc** *abc* abc Computed values [j",
             "creation_time": "Thu Jul  4 21:19:55 2024",
-            "modification_time": "Sat Jul 20 12:57:47 2024",
+            "modification_time": "Sat Jul 20 13:30:33 2024",
             "tagList": [
                 "test"
             ],
@@ -735,8 +735,8 @@
         "”华为杯“数学建模"
     ],
     "sortByLastModify": [
-        "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
         "test",
+        "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
         "2024_07_14",
         "机械臂(小)助手",
         "机械臂零件数据",
