@@ -161,10 +161,10 @@
             ],
             "img": "https://raw.githubusercontent.com/Txhey/blog/main/main/PaperNote\\Attention_is_All_You_Need/img/cover.jpg"
         },
-        "论文：BERT": {
-            "key": "论文：BERT",
+        "BERT": {
+            "key": "BERT",
             "relative_path": "PaperNote\\BERT",
-            "file_name": "论文：BERT.md",
+            "file_name": "BERT.md",
             "title": "[论文精读] BERT： Pre-training of Deep Bidirectional Transformers for Language Understanding",
             "abstract": "参考 [BERT论文逐段精读[论文精读]](https://www.bilibili.com/video/BV1PL411M7eQ/?spm_id_from=333.337.search-card.all.click&vd_source=550e50f36bb6f32ba43eb2af3f8307be) **BERT**:**B**idirectional **E**ncoder **R**epr",
             "creation_time": "Thu Jul  4 16:12:42 2024",
@@ -221,7 +221,7 @@
             "title": "Unsupervised Deep Embedding for Clustering Analysis",
             "abstract": "Author: Junyuan Xie, Rose Girshick, Ali Farhadi Pubulication: ICML 2016 (International Conference of Machine Learning, 国际机器学习会议) Date: 2016.06 Link: https://arxiv.org/abs/1511.06335 论文中提出了一种结合深度学习和无监督",
             "creation_time": "Sat Jul 13 13:27:41 2024",
-            "modification_time": "Sat Jul 20 13:29:04 2024",
+            "modification_time": "Sat Jul 20 13:33:08 2024",
             "tagList": [
                 "论文笔记",
                 "clustering",
@@ -586,7 +586,7 @@
         ],
         "论文笔记": [
             "Transformer",
-            "论文：BERT",
+            "BERT",
             "k-mean",
             "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
             "Stereo"
@@ -594,12 +594,12 @@
         "Transformer": [
             "Transformer",
             "Transformer_Translation",
-            "论文：BERT"
+            "BERT"
         ],
         "Attention": [
             "Transformer",
             "Transformer_Translation",
-            "论文：BERT"
+            "BERT"
         ],
         "论文翻译": [
             "Transformer_Translation",
@@ -607,7 +607,7 @@
             "Stereo_Matching_translation"
         ],
         "BERT": [
-            "论文：BERT"
+            "BERT"
         ],
         "K-mean": [
             "k-mean",
@@ -685,7 +685,7 @@
         ],
         "论文笔记": [
             "Transformer",
-            "论文：BERT",
+            "BERT",
             "k-mean",
             "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
             "Stereo"
@@ -731,12 +731,12 @@
         "vue",
         "Stary",
         "Transformer_Translation",
-        "论文：BERT",
+        "BERT",
         "”华为杯“数学建模"
     ],
     "sortByLastModify": [
-        "test",
         "Unsupervised_Deep_Embedding_for_Clustering_Analysis",
+        "test",
         "2024_07_14",
         "机械臂(小)助手",
         "机械臂零件数据",
@@ -755,7 +755,7 @@
         "Stary",
         "plt",
         "Visial Transformer",
-        "论文：BERT",
+        "BERT",
         "k-mean",
         "Transformer_Translation",
         "3D打印笔记",
